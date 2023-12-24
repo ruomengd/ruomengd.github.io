@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download the pdf version here.](http://academicpages.github.io/files/drm_cv_en.pdf)
+[Download the pdf version here.](http://ruomengd.github.io/files/drm_cv_en.pdf)
 
 Education
 ======
