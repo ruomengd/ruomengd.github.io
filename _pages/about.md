@@ -12,7 +12,7 @@ I am a Master's student specializing in Computer Science at Georgia Institute of
 
 My research interest lies in integration of **reinforcement learning** with **foundational models**, aimed at advancing the capabilities within **AI4SE** and **AIOps**. [[CV]](http://ruomengd.github.io/files/drm_cv_en.pdf)
 
-**<font color="red"> I am currently exploring PhD positions for Fall 2025, and I am also interested in research internship or RA positions for Summer 2024. Please feel free to contact me at [rmding@gatech.edu](rmding@gatech.edu) if you have or know of any opportunities that align with my interests. I am open to discussing potential opportunities!</font>**
+**<font color="red"> I am currently exploring PhD positions for Fall 2025, and I am also interested in research internship or RA positions for Summer 2024. Please feel free to contact me at <font color="blue">rmding@gatech.edu</font> if you have or know of any opportunities that align with my interests. I am open to discussing potential opportunities!</font>**
 
 
 News
