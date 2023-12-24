@@ -22,8 +22,8 @@ author_profile: true
 ### [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254.pdf) 
 
 * **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang
-* *arXiv preprint arXiv:2311.04254*, 2023 
-* <font color="grey">Everything of Thoughts (XoT) incorporates external domain knowledge into thoughts using pretrained reinforcement learning and Monte Carlo Tree Search (MCTS), enhancing LLMs' capabilities and enabling them to efficiently generalize to unseen problems. XoT outperforms existing approaches in challenging multi-solution problem-solving tasks and showcases its proficiency in addressing complex problems across diverse domains.</font> [[paper]](https://arxiv.org/pdf/2311.04254.pdf) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT) 
+* *arXiv preprint arXiv:2311.04254*, 2023 [[paper]](https://arxiv.org/pdf/2311.04254.pdf) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT) 
+* <font color="grey">Everything of Thoughts (XoT) incorporates external domain knowledge into thoughts using pretrained reinforcement learning and Monte Carlo Tree Search (MCTS), enhancing LLMs' capabilities and enabling them to efficiently generalize to unseen problems. XoT outperforms existing approaches in challenging multi-solution problem-solving tasks and showcases its proficiency in addressing complex problems across diverse domains.</font> 
 
 
 ### [TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems](https://arxiv.org/pdf/2310.18740.pdf) 
