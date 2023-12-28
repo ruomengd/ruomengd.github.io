@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruomeng's Homepage"
+title                    : "Ruomeng Ding"
 title_separator          : "-"
-name                     : &name "Ruomeng Ding"
+name                     : &name "Ruomeng Ding 丁若萌"
 description              : &description "CS Master Student @ Gatech"
 url                      : https://ruomengd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
