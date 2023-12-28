@@ -29,5 +29,5 @@ Our paper, which explores the application of hierarchical reinforcement learning
 
 2022
 ======
-* **Dec 13, 2022: Joining Forces with Microsoft Research Asia (MSRA)**
+* **Dec 13, 2022: Joining with Microsoft Research Asia (MSRA)**
 I am excited to share my experience of my first day as a research intern at Microsoft Research Asia (MSRA). I am eager to see what we can accomplish together!
