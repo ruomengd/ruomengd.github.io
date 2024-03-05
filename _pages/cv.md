@@ -16,26 +16,34 @@ Education
 * **Master in Computer Science**, **Georgia Institute of Technology**, 2022 - Present
   - GPA: 4.0/4.0
   - Shenzhen Campus, 2022 to 2023. Atlanta Campus, 2023 to Present.
-  - Courses: Machine Learning, Artificial Intelligence, Intro to Grad Algorithms...
+  - Pursuing dual master's degrees at TJU simultaneously, estimated graduation in 2025.
+
 * **Bachelor in Computer Science and Technology**, **Tianjin University**, 2018 - 2022
   - GPA: 3.75/4.0
-  - Courses: Probability Theory, Linear Algebra, Natural Language Processing...
+ 
 
 Research Experience
 ======
+
 * **Georgia Institute of Technology**,  Aug 2023 - Present
   - *Graduate student, advised by [Dr. Bo Dai](https://scholar.google.com/citations?hl=en&user=TIKl_foAAAAJ) and [Dr. Chao Zhang](https://scholar.google.com/citations?hl=en&user=CeEO6SIAAAAJ)*
-  - Focus on Foundation Models for decision making, and LLM agents.
+  - Focus on Foundation Models for decision making, Tool Learning, and LLM agents.
+
+* **University of Illinois Urbana-Champaign**,  Feb 2024 - Present
+  - *Research Intern, in [Dr. Tong Zhang](https://tongzhang-ml.org/)'s Group, working with [Rui Yang](https://yangrui2015.github.io/) and [Rui Pan](https://github.com/research4pan).*
+  - Focus on Reliable and Robust Reward Model for RLHF.
+
 
 * **Microsoft Research Asia**,  Dec 2022 - Dec 2023
   - *Research Intern, advised by [Dr. Lu Wang](https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en) and [Dr. Chaoyun Zhang](https://scholar.google.com/citations?hl=en&user=5h9KUFIAAAAJ)*
-  - Enhance Root Cause Analysis in large-scale microservices systems through Reinforcement Learning.
-  - Focus on new prompting method to surpass traditional thought limitations in LLMs for enhanced creativity and generalization.
+  - Enhance Root Cause Analysis in large-scale microservices systems through Reinforcement Learning. *(2 paper accepted)*
+  - Focus on MCTS-LLM collaborative thought revision framework to surpass traditional thought limitations in LLMs for enhanced creativity and generalization. *(1 paper arxiv & in review, featured in [Hugging Face Daily Papers](https://huggingface.co/papers/2311.04254))*
+
 
 * **Tianjin University**,  Aug 2020 - July 2022
   - *Research Assistant, advised by [Dr. Minglai Shao](https://scholar.google.com/citations?hl=en&user=2FDgNl0AAAAJ) and [Dr. Wenjun Wang](https://scholar.google.com/citations?hl=en&user=h2WHkq8AAAAJ)*
-  - Focus on the multi-label Out-of-Distribution (OOD) detection problem on graphs from an evidential perspective. *It is being conducted under the co-advisement of [Dr. Xujiang Zhao](https://scholar.google.com/citations?hl=en&user=k2-JcFAAAAAJ) and [Dr. Chen Zhao](https://scholar.google.com/citations?user=xebNvXQAAAAJ&hl=en).*
-  - Assist in completing a paper on dynamic community detection. Complete the undergraduate thesis in the field of dynamic network embedding.
+  - Focus on the multi-label Out-of-Distribution (OOD) detection problem on graphs from an evidential perspective. *It is being conducted under the co-advisement of [Dr. Xujiang Zhao](https://scholar.google.com/citations?hl=en&user=k2-JcFAAAAAJ) and [Dr. Chen Zhao](https://scholar.google.com/citations?user=xebNvXQAAAAJ&hl=en).* *(1 workshop accepted)*
+  - Assist in completing a paper on dynamic community detection. Complete the undergraduate thesis in the field of dynamic network embedding. *(1 paper accepted)*
 
 
 Publications
