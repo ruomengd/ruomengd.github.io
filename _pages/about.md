@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student specializing in Computer Science at Georgia Institute of Technology, advised by [Dr. Chao Zhang](https://scholar.google.com/citations?hl=en&user=CeEO6SIAAAAJ) and [Dr. Bo Dai](https://scholar.google.com/citations?hl=en&user=TIKl_foAAAAJ). I'm also a research intern in [Dr. Tong Zhang](https://tongzhang-ml.org/)'s group at the University of Illinois Urbana-Champaign. 
+I am a Master's student specializing in Computer Science at Georgia Institute of Technology, advised by [Dr. Chao Zhang](https://scholar.google.com/citations?hl=en&user=CeEO6SIAAAAJ) and [Dr. Bo Dai](https://scholar.google.com/citations?hl=en&user=TIKl_foAAAAJ). I'm also a research intern in [Dr. Tong Zhang](https://tongzhang-ml.org/)'s group at University of Illinois Urbana-Champaign. 
 
 Previously, I was a research intern at Microsoft Research Asia (MSRA) advised [Dr. Lu Wang](https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en) and [Dr. Chaoyun Zhang](https://scholar.google.com/citations?hl=en&user=5h9KUFIAAAAJ). I am fortunate to collaborate with researchers of Georgia Tech, UIUC, Microsoft Research Asia, NEC Laboratories America, and Tianjin University. [[CV]](http://ruomengd.github.io/files/drm_cv_en.pdf)
 
