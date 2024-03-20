@@ -16,7 +16,7 @@ I am currently or potentially interested in the following topics:
 * **Foundation Models for Decision Making**: How can we enhance the ability of LLMs for tasks requiring <font color="blue">long-term planning and reasoning</font>? How can we teach these models to <font color="blue">use tools</font> effectively?
 * **Trustworthy LLMs**: How can we deal with <font color="blue"> distribution shift</font> for RLHF? How can we get <font color="blue">reliable</font> and <font color="blue">robust</font> reward model under inconsistent preference?
 * **AIOPS/ AI4SE**: How can we improve the performance and scalability of <font color="blue">root cause analysis (RCA)</font> with RL and RLHF? How can we incorporate foundation models into Software Engineering?
-* * **Trustworthy Graph Learning**: How can we detect <font color="blue">out-of-distribution (OOD)</font> samples on multi-label graphs? How should we address OOD and fairness problems in Graph Learning?
+* **Trustworthy Graph Learning**: How can we detect <font color="blue">out-of-distribution (OOD)</font> samples on multi-label graphs? How should we address OOD and fairness problems in Graph Learning?
 
 
 **<font color="red"> I am currently exploring PhD positions for Fall 2025, and I am also interested in research internship or RA positions for Summer 2024. Please feel free to contact me at <font color="blue">rmding@gatech.edu</font> if you have or know of any opportunities that align with my interests. I am open to discussing potential opportunities!</font>**
