@@ -19,7 +19,7 @@ I am currently or potentially interested in the following topics:
 * **Trustworthy Graph Learning**: How can we detect <font color="blue">out-of-distribution (OOD)</font> samples on multi-label graphs? How should we address OOD and fairness problems in Graph Learning?
 
 
-**<font color="red"> I am currently exploring PhD positions for Fall 2025, ~~and I am also interested in research internship or RA positions for Summer 2024~~. Please feel free to contact me at <font color="blue">rmding@gatech.edu</font> if you have or know of any opportunities that align with my interests. I am open to discussing potential opportunities!</font>**
+**<font color="red"> I am currently exploring PhD positions for Fall 2025. Please feel free to contact me at <font color="blue">rmding@gatech.edu</font> if you have or know of any opportunities that align with my interests. I am open to discussing potential opportunities!</font>**
 
 
 Recent News
