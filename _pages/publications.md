@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-## 2023:
+## 2024:
 
 ### [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254.pdf) 
 
@@ -25,6 +25,7 @@ author_profile: true
 * *Findings of the Association for Computational Linguistics* **(ACL)**, 2024 [[paper]](https://arxiv.org/pdf/2311.04254.pdf) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT) 
 * <font color="grey">Everything of Thoughts (XoT) incorporates external domain knowledge into thoughts using pretrained reinforcement learning and Monte Carlo Tree Search (MCTS), enhancing LLMs' capabilities and enabling them to efficiently generalize to unseen problems. XoT outperforms existing approaches in challenging multi-solution problem-solving tasks and showcases its proficiency in addressing complex problems across diverse domains.</font> 
 
+## 2023:
 
 ### [TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems](https://arxiv.org/pdf/2310.18740.pdf) 
 
