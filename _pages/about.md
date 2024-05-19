@@ -8,22 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student specializing in Computer Science at Georgia Institute of Technology, advised by [Dr. Chao Zhang](https://scholar.google.com/citations?hl=en&user=CeEO6SIAAAAJ) and [Dr. Bo Dai](https://scholar.google.com/citations?hl=en&user=TIKl_foAAAAJ). I'm also a research intern in [Dr. Tong Zhang](https://tongzhang-ml.org/)'s group at University of Illinois Urbana-Champaign. 
+I am a Master's student specializing in Computer Science at Georgia Institute of Technology. Currently, I'm doing a summer internship at Microsoft Research, Redmond. I'm also a research intern in [Dr. Tong Zhang](https://tongzhang-ml.org/)'s group at University of Illinois Urbana-Champaign.
+
+<!-- , advised by [Dr. Chao Zhang](https://scholar.google.com/citations?hl=en&user=CeEO6SIAAAAJ) and [Dr. Bo Dai](https://scholar.google.com/citations?hl=en&user=TIKl_foAAAAJ) -->
 
 Previously, I was a research intern at Microsoft Research Asia (MSRA) advised [Dr. Lu Wang](https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en) and [Dr. Chaoyun Zhang](https://scholar.google.com/citations?hl=en&user=5h9KUFIAAAAJ). I am fortunate to collaborate with researchers of Georgia Tech, UIUC, Microsoft Research Asia, NEC Laboratories America, and Tianjin University. [[CV]](http://ruomengd.github.io/files/drm_cv_en.pdf)
 
 I am currently or potentially interested in the following topics:
-* **Foundation Models for Decision Making**: How can we enhance the ability of LLMs for tasks requiring <font color="blue">long-term planning and reasoning</font>? How can we teach these models to <font color="blue">use tools</font> effectively?
+
 * **Trustworthy LLMs**: How can we deal with <font color="blue"> distribution shift</font> for RLHF? How can we get <font color="blue">reliable</font> and <font color="blue">robust</font> reward model under inconsistent preference?
 * **AIOPS/ AI4SE**: How can we improve the performance and scalability of <font color="blue">root cause analysis (RCA)</font> with RL and RLHF? How can we incorporate foundation models into Software Engineering?
-* **Trustworthy Graph Learning**: How can we detect <font color="blue">out-of-distribution (OOD)</font> samples on multi-label graphs? How should we address OOD and fairness problems in Graph Learning?
+* **Foundation Models for Decision Making**: How can we enhance the ability of LLMs for tasks requiring <font color="blue">long-term planning and reasoning</font>? How can we teach these models to <font color="blue">use tools</font> effectively?
+<!-- * **Trustworthy Graph Learning**: How can we detect <font color="blue">out-of-distribution (OOD)</font> samples on multi-label graphs? How should we address OOD and fairness problems in Graph Learning? -->
 
 
-**<font color="red"> I am currently exploring PhD positions for Fall 2025. Please feel free to contact me at <font color="blue">rmding@gatech.edu</font> if you have or know of any opportunities that align with my interests. I am open to discussing potential opportunities!</font>**
+**<font color="red"> I am actively seeking PhD positions for Fall 2025. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <font color="blue">rmding@gatech.edu</font>. I am very interested in discussing any potential opportunities. Thank you!</font>**
 
 
 Recent News
 ======
+
+* **May 15, 2024: XoT has been accepted as a findings paper at ACL 2024**
+  <br> Our paper, "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation", has been accepted by ACL 2024 as a long paper finding!
+
 
 * **Apr 5, 2024: Incoming Research Intern in Microsoft Redmond**
   <br>

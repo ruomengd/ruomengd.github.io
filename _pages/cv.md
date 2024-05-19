@@ -25,19 +25,23 @@ Education
 Research Experience
 ======
 
-* **Georgia Institute of Technology**,  Aug 2023 - Present
-  - *Graduate student, advised by [Dr. Bo Dai](https://scholar.google.com/citations?hl=en&user=TIKl_foAAAAJ) and [Dr. Chao Zhang](https://scholar.google.com/citations?hl=en&user=CeEO6SIAAAAJ)*
-  - Focus on Foundation Models for decision making, Tool Learning, and LLM agents.
+* **Microsoft Research, Redmond**,  May 2024 - Present
+  - *Research Intern*, at [Microsoft Systems Innovation Research Group](https://www.microsoft.com/en-us/research/group/systems-innovation/).
+  - Focus on LLMs for Azure Incident Triage.
 
 * **University of Illinois Urbana-Champaign**,  Feb 2024 - Present
   - *Research Intern, in [Dr. Tong Zhang](https://tongzhang-ml.org/)'s Group, working with [Rui Yang](https://yangrui2015.github.io/) and [Rui Pan](https://github.com/research4pan).*
-  - Focus on Reliable and Robust Reward Model for RLHF.
+  - Focus on Reliable and Robust Reward Model for RLHF. *(1 paper in review)*
+
+* **Georgia Institute of Technology**,  Aug 2023 - Present
+  - *Graduate student, advised by [Dr. Bo Dai](https://scholar.google.com/citations?hl=en&user=TIKl_foAAAAJ) and [Dr. Chao Zhang](https://scholar.google.com/citations?hl=en&user=CeEO6SIAAAAJ)*
+  - Focus on Foundation Models for decision making, Tool Learning, and LLM agents.
 
 
 * **Microsoft Research Asia**,  Dec 2022 - Dec 2023
   - *Research Intern, advised by [Dr. Lu Wang](https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en) and [Dr. Chaoyun Zhang](https://scholar.google.com/citations?hl=en&user=5h9KUFIAAAAJ)*
   - Enhance Root Cause Analysis in large-scale microservices systems through Reinforcement Learning. *(2 paper accepted)*
-  - Focus on MCTS-LLM collaborative thought revision framework to surpass traditional thought limitations in LLMs for enhanced creativity and generalization. *(1 paper arxiv & in review, featured in [Hugging Face Daily Papers](https://huggingface.co/papers/2311.04254))*
+  - Focus on MCTS-LLM collaborative thought revision framework to surpass traditional thought limitations in LLMs for enhanced creativity and generalization. *(1 finding accepted)*
 
 
 * **Tianjin University**,  Aug 2020 - July 2022
@@ -49,7 +53,7 @@ Research Experience
 Publications
 ======
 
-* [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254.pdf). **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang. *arXiv preprint arXiv:2311.04254*, 2023 [[paper]](https://arxiv.org/pdf/2311.04254.pdf) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT) 
+* [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254.pdf). **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang. *Findings of the Association for Computational Linguistics* **(ACL)**, 2024 [[paper]](https://arxiv.org/pdf/2311.04254.pdf) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT) 
 
 * [TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems](https://arxiv.org/pdf/2310.18740.pdf). **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Xiaomin Wu, Meng Zhang, Qingjun Chen, Xin Gao, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang. *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering* **(ESEC/FSE)**, 2023 [[paper]](https://arxiv.org/pdf/2310.18740.pdf)
 
