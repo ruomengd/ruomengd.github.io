@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student specializing in Computer Science at Georgia Institute of Technology. Currently, I'm doing a summer internship at Microsoft Research, Redmond. I'm also a research intern in [Dr. Tong Zhang](https://tongzhang-ml.org/)'s group at University of Illinois Urbana-Champaign.
+I am a Master's student specializing in Computer Science at Georgia Institute of Technology. Currently, I'm doing a summer internship at [Microsoft Research](https://www.microsoft.com/en-us/research/group/systems-innovation/), Redmond. I'm also a research intern in [Dr. Tong Zhang](https://tongzhang-ml.org/)'s group at University of Illinois Urbana-Champaign.
 
 <!-- , advised by [Dr. Chao Zhang](https://scholar.google.com/citations?hl=en&user=CeEO6SIAAAAJ) and [Dr. Bo Dai](https://scholar.google.com/citations?hl=en&user=TIKl_foAAAAJ) -->
 
