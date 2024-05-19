@@ -28,7 +28,7 @@ I am currently or potentially interested in the following topics:
 Recent News
 ======
 
-* **May 15, 2024: XoT has been accepted as a findings paper at ACL 2024**
+* **May 15, 2024: XoT has been accepted as finding at ACL 2024**
   <br> Our paper, "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation", has been accepted by ACL 2024 as a long paper finding!
 
 

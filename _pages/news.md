@@ -11,7 +11,7 @@ redirect_from:
 
 2024
 ======
-* **May 15, 2024: XoT has been accepted as a findings paper at ACL 2024.** Our paper, "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation", has been accepted by ACL 2024 as a long paper finding!
+* **May 15, 2024: XoT has been accepted as finding at ACL 2024.** Our paper, "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation", has been accepted by ACL 2024 as a long paper finding!
 
 
 * **Apr 5, 2024: Incoming Research Intern in Microsoft Redmond.** I am thrilled to announce that I will be joining Microsoft Redmond as a Research Intern this summer. This opportunity is truly incredible and I am grateful for it. I am excited for the journey ahead and can't wait to be in Seattle!
