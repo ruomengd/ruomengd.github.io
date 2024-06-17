@@ -19,7 +19,7 @@ author_profile: true
 
 ## 2024:
 
-### [ERegularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/pdf/2406.10216) 
+### [Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/pdf/2406.10216) 
 
 * Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
 * *arXiv*  [[paper]](https://arxiv.org/pdf/2406.10216)
