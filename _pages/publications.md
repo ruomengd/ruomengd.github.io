@@ -19,6 +19,12 @@ author_profile: true
 
 ## 2024:
 
+### [ERegularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/pdf/2406.10216) 
+
+* Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
+* *arXiv*  [[paper]](https://arxiv.org/pdf/2406.10216)
+* <font color="grey">Our study proposes a novel approach to enhance the reward model's generalization ability against distribution shifts by regularizing the hidden states. Specifically, we retain the base model's language model head and incorporate a suite of text-generation losses to preserve the hidden states' text generation capabilities, while concurrently learning a reward head behind the same hidden states.
+
 ### [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254.pdf) 
 
 * **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang

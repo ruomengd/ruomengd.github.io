@@ -33,7 +33,7 @@ Research Experience
   - *Research Intern, in [Dr. Tong Zhang](https://tongzhang-ml.org/)'s Group, working with [Rui Yang](https://yangrui2015.github.io/) and [Rui Pan](https://github.com/research4pan).*
   - Focus on Reliable and Robust Reward Model for RLHF. *(1 paper in review)*
 
-* **Georgia Institute of Technology**,  Aug 2023 - Present
+* **Georgia Institute of Technology**,  Aug 2023 - Dec 2023
   - *Graduate student, advised by [Dr. Bo Dai](https://scholar.google.com/citations?hl=en&user=TIKl_foAAAAJ) and [Dr. Chao Zhang](https://scholar.google.com/citations?hl=en&user=CeEO6SIAAAAJ)*
   - Focus on Foundation Models for decision making, Tool Learning, and LLM agents.
 
