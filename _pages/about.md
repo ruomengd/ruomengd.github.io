@@ -29,7 +29,7 @@ I am currently or potentially interested in the following topics:
 Recent News
 ======
 
-* **Sep, 2024: GRM has been accepted as finding at ACL 2024.** 
+* **Sep, 2024: GRM has been accepted as finding at NeurIPS 2024.** 
   Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024!
 
 * **May, 2024: XoT has been accepted as finding at ACL 2024**

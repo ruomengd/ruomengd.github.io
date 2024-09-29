@@ -12,7 +12,7 @@ redirect_from:
 2024
 ======
 
-* **Sep, 2024: GRM has been accepted as finding at ACL 2024.** Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024!
+* **Sep, 2024: GRM has been accepted as finding at NeurIPS 2024.** Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024!
 
 * **May, 2024: XoT has been accepted as finding at ACL 2024.** Our paper, "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation", has been accepted by ACL 2024 as a long paper finding!
 
