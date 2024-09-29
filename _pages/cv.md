@@ -13,10 +13,9 @@ redirect_from:
 
 Education
 ======
-* **Master in Computer Science**, **Georgia Institute of Technology**, 2022 - Present
+* **Master in Computer Science**, **Georgia Institute of Technology**, 2022 - Present (estimated graduation in 2025)
   - GPA: 4.0/4.0
-  - Shenzhen Campus, 2022 to 2023. Atlanta Campus, 2023 to Present.
-  - Pursuing dual master's degrees at TJU simultaneously, estimated graduation in 2025.
+  - Pursuing dual master's degrees at TJU simultaneously,.
 
 * **Bachelor in Computer Science and Technology**, **Tianjin University**, 2018 - 2022
   - GPA: 3.75/4.0
@@ -25,33 +24,35 @@ Education
 Research Experience
 ======
 
-* **Microsoft Research, Redmond**,  May 2024 - Present
+* **Microsoft Research, Redmond**,  May 2024 - Aug 2024
   - *Research Intern*, at [Microsoft Systems Innovation Research Group](https://www.microsoft.com/en-us/research/group/systems-innovation/).
-  - Focus on LLMs for Azure Incident Triage.
+  - Focus on LLM Agents for Azure Incident Triage.
 
-* **University of Illinois Urbana-Champaign**,  Feb 2024 - Present
+* **University of Illinois Urbana-Champaign**,  Feb 2024 - Aug 2024
   - *Research Intern, in [Dr. Tong Zhang](https://tongzhang-ml.org/)'s Group, working with [Rui Yang](https://yangrui2015.github.io/) and [Rui Pan](https://github.com/research4pan).*
-  - Focus on Reliable and Robust Reward Model for RLHF. *(1 paper in review)*
+  - Focus on Reliable and Robust Reward Model for RLHF. *(1 paper accepted by NeurIPS 2024)*
 
-* **Georgia Institute of Technology**,  Aug 2023 - Dec 2023
+<!-- * **Georgia Institute of Technology**,  Aug 2023 - Dec 2023
   - *Graduate student, advised by [Dr. Bo Dai](https://scholar.google.com/citations?hl=en&user=TIKl_foAAAAJ) and [Dr. Chao Zhang](https://scholar.google.com/citations?hl=en&user=CeEO6SIAAAAJ)*
-  - Focus on Foundation Models for decision making, Tool Learning, and LLM agents.
+  - Focus on Foundation Models for decision making, Tool Learning, and LLM agents. -->
 
 
 * **Microsoft Research Asia**,  Dec 2022 - Dec 2023
   - *Research Intern, advised by [Dr. Lu Wang](https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en) and [Dr. Chaoyun Zhang](https://scholar.google.com/citations?hl=en&user=5h9KUFIAAAAJ)*
-  - Enhance Root Cause Analysis in large-scale microservices systems through Reinforcement Learning. *(2 paper accepted)*
-  - Focus on MCTS-LLM collaborative thought revision framework to surpass traditional thought limitations in LLMs for enhanced creativity and generalization. *(1 finding accepted)*
+  - Enhance Root Cause Analysis in large-scale microservices systems through Reinforcement Learning. *(1 paper accepted by KDD 2023; 1 paper accepted by FSE 2023, first author)*
+  - Focus on MCTS-LLM collaborative thought revision framework to surpass traditional thought limitations in LLMs for enhanced creativity and generalization. *(1 finding accepted by ACL 2024, first author)*
 
 
 * **Tianjin University**,  Aug 2020 - July 2022
   - *Research Assistant, advised by [Dr. Minglai Shao](https://scholar.google.com/citations?hl=en&user=2FDgNl0AAAAJ) and [Dr. Wenjun Wang](https://scholar.google.com/citations?hl=en&user=h2WHkq8AAAAJ)*
-  - Focus on the multi-label Out-of-Distribution (OOD) detection problem on graphs from an evidential perspective. *It is being conducted under the co-advisement of [Dr. Xujiang Zhao](https://scholar.google.com/citations?hl=en&user=k2-JcFAAAAAJ) and [Dr. Chen Zhao](https://scholar.google.com/citations?user=xebNvXQAAAAJ&hl=en).* *(1 workshop accepted)*
-  - Assist in completing a paper on dynamic community detection. Complete the undergraduate thesis in the field of dynamic network embedding. *(1 paper accepted)*
+  - Focus on the multi-label Out-of-Distribution (OOD) detection problem on graphs from an evidential perspective. *It is being conducted under the co-advisement of [Dr. Xujiang Zhao](https://scholar.google.com/citations?hl=en&user=k2-JcFAAAAAJ) and [Dr. Chen Zhao](https://scholar.google.com/citations?user=xebNvXQAAAAJ&hl=en).* *(1 workshop accepted by AAAI 2022, first author)*
+  - Assist in completing a paper on dynamic community detection. Complete the undergraduate thesis in the field of dynamic network embedding. *(1 paper accepted by IEEE Transactions on Cybernetics)*
 
 
 Publications
 ======
+
+* [Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/pdf/2406.10216). Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang. *Neural Information Processing Systems* **(NeurIPS)**, 2024 [[paper]](https://arxiv.org/pdf/2406.10216)
 
 * [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254.pdf). **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang. *Findings of the Association for Computational Linguistics* **(ACL)**, 2024 [[paper]](https://arxiv.org/pdf/2311.04254.pdf) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT) 
 
@@ -71,7 +72,7 @@ Publications
 
 Awards and Scholarships
 ======
-* National Scholarship, China
-* Merit Scholarship, Georgia Institute of Technology, Shenzhen Campus
-* People’s Scholarship, Tianjin
-* Merit Scholarship, Tianjin University
+* National Scholarship, China, 2023
+* Merit Scholarship, Georgia Institute of Technology (Shenzhen Campus), 2022
+* People’s Scholarship, Tianjin, 2020
+* Merit Scholarship, Tianjin University, 2019
