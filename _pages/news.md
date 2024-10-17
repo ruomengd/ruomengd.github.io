@@ -12,9 +12,10 @@ redirect_from:
 2024
 ======
 
-* **Sep, 2024: GRM has been accepted as finding at NeurIPS 2024.** Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024!
+* **Sep, 2024: GRM has been accepted as finding at NeurIPS 2024.** Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024! [[paper]](https://arxiv.org/pdf/2406.10216) 
 
-* **May, 2024: XoT has been accepted as finding at ACL 2024.** Our paper, "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation", has been accepted by ACL 2024 as a long paper finding!
+
+* **May, 2024: XoT has been accepted as finding at ACL 2024.** Our paper, "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation", has been accepted by ACL 2024 as a long paper finding! [[paper]](https://arxiv.org/pdf/2311.04254.pdf) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT)
 
 * **Apr, 2024: Incoming Research Intern in Microsoft Redmond.** I am thrilled to announce that I will be joining Microsoft Redmond as a Research Intern this summer. This opportunity is truly incredible and I am grateful for it. I am excited for the journey ahead and can't wait to be in Seattle!
 

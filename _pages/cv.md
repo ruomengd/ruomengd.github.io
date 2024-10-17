@@ -15,7 +15,7 @@ Education
 ======
 * **Master in Computer Science**, **Georgia Institute of Technology**, 2022 - Present (estimated graduation in 2025)
   - GPA: 4.0/4.0
-  - Pursuing dual master's degrees at TJU simultaneously,.
+  - Both in Shenzhen and Atlanta Campus, pursuing a dual master's degree at TJU.
 
 * **Bachelor in Computer Science and Technology**, **Tianjin University**, 2018 - 2022
   - GPA: 3.75/4.0
@@ -25,12 +25,12 @@ Research Experience
 ======
 
 * **Microsoft Research, Redmond**,  May 2024 - Aug 2024
-  - *Research Intern*, at [Microsoft Systems Innovation Research Group](https://www.microsoft.com/en-us/research/group/systems-innovation/).
-  - Focus on LLM Agents for Azure Incident Triage.
+  - *Research Intern*, at [Microsoft Systems Innovation Research Group](https://www.microsoft.com/en-us/research/group/systems-innovation/), advised by [Dr. Minghua Ma](https://www.microsoft.com/en-us/research/people/minghuama/) and [Dr. Ze Li](https://scholar.google.com/citations?user=hhGVDJwAAAAJ&hl=en).
+  - Focus on Multi Agents for Incident Triage in Azure system. *(1 paper in progress)*
 
 * **University of Illinois Urbana-Champaign**,  Feb 2024 - Aug 2024
   - *Research Intern, in [Dr. Tong Zhang](https://tongzhang-ml.org/)'s Group, working with [Rui Yang](https://yangrui2015.github.io/) and [Rui Pan](https://github.com/research4pan).*
-  - Focus on Reliable and Robust Reward Model for RLHF. *(1 paper accepted by NeurIPS 2024)*
+  - Focus on Reliable and Robust Reward Model for RLHF. *(1 paper accepted by NeurIPS 2024, second author)*
 
 <!-- * **Georgia Institute of Technology**,  Aug 2023 - Dec 2023
   - *Graduate student, advised by [Dr. Bo Dai](https://scholar.google.com/citations?hl=en&user=TIKl_foAAAAJ) and [Dr. Chao Zhang](https://scholar.google.com/citations?hl=en&user=CeEO6SIAAAAJ)*
@@ -39,7 +39,7 @@ Research Experience
 
 * **Microsoft Research Asia**,  Dec 2022 - Dec 2023
   - *Research Intern, advised by [Dr. Lu Wang](https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en) and [Dr. Chaoyun Zhang](https://scholar.google.com/citations?hl=en&user=5h9KUFIAAAAJ)*
-  - Enhance Root Cause Analysis in large-scale microservices systems through Reinforcement Learning. *(1 paper accepted by KDD 2023; 1 paper accepted by FSE 2023, first author)*
+  - Enhance Root Cause Analysis in large-scale microservices systems through Reinforcement Learning. *(1 paper accepted by KDD 2023, third author; 1 paper accepted by FSE 2023, first author)*
   - Focus on MCTS-LLM collaborative thought revision framework to surpass traditional thought limitations in LLMs for enhanced creativity and generalization. *(1 finding accepted by ACL 2024, first author)*
 
 
