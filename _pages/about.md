@@ -17,7 +17,6 @@ redirect_from:
 
 <br>
 <br>
-<br>
 
 <span class='anchor' id='about-me'></span>
 
