@@ -15,11 +15,13 @@ redirect_from:
 {% endif %}
 <!-- {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
-
+<br>
+<br>
+<br>
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a Master's student specializing in Computer Science at Georgia Institute of Technology. Previously, I earned my bachelor’s degrees from Tianjin University. I am fortunate to collaborate with researchers of Georgia Tech, UIUC, Microsoft Research, Microsoft Research Asia, NEC Laboratories America, and Tianjin University. [[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf)
+Hi, I am a Master's student specializing in Computer Science at Georgia Institute of Technology. Previously, I earned my bachelor’s degrees from Tianjin University. I am fortunate to collaborate with researchers of Georgia Tech, UIUC, Microsoft Research, Microsoft Research Asia, NEC Laboratories America, and Tianjin University. [[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
 
 
 My research interests focus on **Trustworthy AI**, **Foundation Models**, and **Reinforcement Learning (RL)**:
@@ -35,7 +37,7 @@ My research interests focus on **Trustworthy AI**, **Foundation Models**, and **
 
 
 # 🔥 News
-- *Sep, 2024*: &nbsp;🎉🎉 Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024! [[paper]](https://arxiv.org/pdf/2406.10216) 
+- *Sep, 2024*: &nbsp;🎉🎉 Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024! [[paper]](https://arxiv.org/pdf/2406.10216) [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model) 
 - *May, 2024*: &nbsp;🎉🎉 Our paper, "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation", has been accepted by ACL 2024 as a long paper finding! [[paper]](https://arxiv.org/pdf/2311.04254.pdf) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT)
 - *Apr, 2024*: &nbsp;🎉🎉 I am thrilled to announce that I will be joining Microsoft Redmond as a Research Intern this summer. I am excited for the journey ahead and can't wait to be in Seattle!
 
@@ -110,7 +112,7 @@ Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
 - *2024.05 - 2024.08*, Microsoft Research, Redmond, WA.
 - *2022.11 - 2023.08*, Microsoft Research Asia, Beijing, China.
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Fellowships
 - *2023* National Scholarship, TOP 1%, Tianjin University.
 - *2022* Merit Scholarship, TOP 5%, Georgia Institute of Technology (Shenzhen Campus)
 - *2020* People’s Scholarship, TOP 1%, Tianjin University
@@ -122,8 +124,7 @@ Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
 - *2023*, Reviewer, Journal of Information Processing and Management
 
 # 🔦 Miscellaneous
-
-- Practiced synchronized swimming during my teens—our team earned 2nd place at the National Youth Competition. Now I swim just for fun. 🏊‍♀️
+- Practiced synchronized swimming during teens—our team earned 2nd place at the National Youth Competition. Now I swim just for fun. 🏊‍♀️
 - Played the flute in orchestras throughout school and performed in benefit concerts. 🎶
 - Took up piano in 2022—progress is slow, but it’s all about the journey. 🎹
 - A big fan of novels and musicals, especially Les Misérables. 🎭
