@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruomeng Ding - Homepage"
-description              : "Ruomeng's Homepag."
+description              : 
 repository               : "ruomengd/ruomengd.github.io"
 google_scholar_stats_use_cdn : true
 

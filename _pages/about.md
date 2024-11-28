@@ -93,10 +93,10 @@ Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
 
 
 # 📖 Educations
-- *2022.08 - 2025.05 (Estimated)*, **M.S. in Computer Science**, **Georgia Institute of Technology**, 
+- *2022.08 - 2025.05 (Estimated)*, **M.S. in Computer Science**, **Georgia Institute of Technology**
   - GPA: 4.0/4.0, Specialization: Machine Learning.
   - Both in Atlanta and Shenzhen Campus, pursuing a dual master’s degree at Tianjin University. Expected to graduate with separate M.S. degrees from both institutions in May 2025.
-- *2018.08 - 2022.05*, **Bachelor in Computer Science and Technology**, **Tianjin University**, 
+- *2018.08 - 2022.05*, **Bachelor in Computer Science and Technology**, **Tianjin University** 
   - GPA: 3.75/4.0, Rank: 11/169 (6.5%).
  
 
@@ -121,7 +121,7 @@ Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
 
 # 🔦 Miscellaneous
 
-- Spent my teenage years doing synchronized swimming—our team earned 2nd place at the National Youth Championships. Now I swim just for fun. 🏊‍♀️
-- Played the flute in orchestras throughout school and performed in dozens of concerts. 🎶
+- Practiced synchronized swimming during my teens—our team earned 2nd place at the National Youth Competition. Now I swim just for fun. 🏊‍♀️
+- Played the flute in orchestras throughout school and performed in benefit concerts. 🎶
 - Took up piano in 2022—progress is slow, but it’s all about the journey. 🎹
-- A big fan of novels and musicals, especially Les Misérables. ✨
+- A big fan of novels and musicals, especially Les Misérables. 🎭
