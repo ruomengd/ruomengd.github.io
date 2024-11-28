@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 <!-- {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
+
+
 <span class='anchor' id='about-me'></span>
 
 Hi, I am a Master's student specializing in Computer Science at Georgia Institute of Technology. Previously, I earned my bachelor’s degrees from Tianjin University. I am fortunate to collaborate with researchers of Georgia Tech, UIUC, Microsoft Research, Microsoft Research Asia, NEC Laboratories America, and Tianjin University. [[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf)
