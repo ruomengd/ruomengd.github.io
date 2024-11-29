@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a Master's student specializing in Computer Science at Georgia Institute of Technology. Previously, I earned my bachelor’s degrees from Tianjin University. I am fortunate to collaborate with researchers of Georgia Tech, UIUC, Microsoft Research, Microsoft Research Asia, NEC Laboratories America, and Tianjin University. [[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
+Hi, I am a Master's student specializing in Computer Science at Georgia Institute of Technology. Previously, I earned my bachelor’s degrees from Tianjin University. I am fortunate to collaborate with researchers of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research Asia, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/nec.png"> NEC Laboratories America, and <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/tju.png"> Tianjin University. [[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
 
 
 My research interests focus on **Trustworthy AI**, **Foundation Models**, and **Reinforcement Learning (RL)**:
@@ -41,8 +41,6 @@ My research interests focus on **Trustworthy AI**, **Foundation Models**, and **
 
 
 # 📝 Publications 
-
-<!-- ------------------------------- -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl24-xot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -87,10 +85,10 @@ Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
 </div>
 <!-- ------------------------------- -->
 
-- <span class="highlighter-rouge"> KDD 2023 </span> [Root cause analysis for microservice systems via hierarchical reinforcement learning from human feedback](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Lu Wang, Chaoyun Zhang, **Ruomeng Ding**, Yong Xu, Qihang Chen, Wentao Zou, Qingjun Chen, Meng Zhang, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599934) 
-- <span class="highlighter-rouge"> UDM-AAAI 2023 </span> [Detecting Multi-Label Out-of-Distribution Nodes on Graphs](https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/Ding/CameraReady/AAAI23_UDM_MLVC_CameraReady.pdf), **Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao [[paper]](https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/Ding/CameraReady/AAAI23_UDM_MLVC_CameraReady.pdf) 
-- <span class="highlighter-rouge"> VLDB 2023 </span> [Imdiffusion: Imputed diffusion models for multivariate time series anomaly detection](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Yuhang Chen, Chaoyun Zhang, Minghua Ma, Yudong Liu, **Ruomeng Ding**, Bowen Li, Shilin He, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2307.00754) [[code]](https://github.com/17000cyh/IMDiffusion) 
-- <span class="highlighter-rouge"> TCYB 2023 </span> [Exploring temporal community structure via network embedding](https://ieeexplore.ieee.org/abstract/document/9768181), Tianpeng Li, Wenjun Wang, Pengfei Jiao, Yinghui Wang, **Ruomeng Ding**, Huaming Wu, Lin Pan, Di Jin [[paper]](https://ieeexplore.ieee.org/abstract/document/9768181) 
+- <span class="highlighter-rouge">KDD 2023</span>  [Root cause analysis for microservice systems via hierarchical reinforcement learning from human feedback](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Lu Wang, Chaoyun Zhang, **Ruomeng Ding**, Yong Xu, Qihang Chen, Wentao Zou, Qingjun Chen, Meng Zhang, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599934) 
+- <span class="highlighter-rouge">UDM-AAAI 2023</span>  [Detecting Multi-Label Out-of-Distribution Nodes on Graphs](https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/Ding/CameraReady/AAAI23_UDM_MLVC_CameraReady.pdf), **Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao [[paper]](https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/Ding/CameraReady/AAAI23_UDM_MLVC_CameraReady.pdf) 
+- <span class="highlighter-rouge">VLDB 2023</span>  [Imdiffusion: Imputed diffusion models for multivariate time series anomaly detection](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Yuhang Chen, Chaoyun Zhang, Minghua Ma, Yudong Liu, **Ruomeng Ding**, Bowen Li, Shilin He, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2307.00754) [[code]](https://github.com/17000cyh/IMDiffusion) 
+- <span class="highlighter-rouge">TCYB 2023</span>  [Exploring temporal community structure via network embedding](https://ieeexplore.ieee.org/abstract/document/9768181), Tianpeng Li, Wenjun Wang, Pengfei Jiao, Yinghui Wang, **Ruomeng Ding**, Huaming Wu, Lin Pan, Di Jin [[paper]](https://ieeexplore.ieee.org/abstract/document/9768181) 
 
 
 
@@ -108,7 +106,9 @@ Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
 
 # 💻 Internships
 - *2024.05 - 2024.08*, Microsoft Research, Redmond, WA.
+  - Advised by [Dr. Minghua Ma](https://www.microsoft.com/en-us/research/people/minghuama/) and [Dr. Ze Li](https://scholar.google.com/citations?user=hhGVDJwAAAAJ&hl=en).
 - *2022.11 - 2023.08*, Microsoft Research Asia, Beijing, China.
+  - Advised by [Dr. Lu Wang](https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en) and [Dr. Chaoyun Zhang](https://www.microsoft.com/en-us/research/people/chaoyunzhang/).
 
 # 🎖 Honors and Fellowships
 - *2023* National Scholarship, TOP 1%, Tianjin University.
