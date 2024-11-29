@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ruomeng Ding 丁若萌"
+  name             : "Ruomeng Ding"
   avatar           : "images/profile.png"
-  bio              : "MSCS @Gatech"
+  bio              : "CS Master Student @ Gatech"
   location         : "Atlanta, Georgia, USA"
   employer         :
   pubmed           : 

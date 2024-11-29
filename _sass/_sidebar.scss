@@ -71,16 +71,11 @@
 .profile_box{
   @include breakpoint($large) {
     display: block;
-    max-width: 1200px; // Optional: Set a max-width for better control
-    margin: 0 auto; // Center the box within the parent container
   }
   display: flex;
   justify-content: flex-start;
   align-content: flex-start;
   align-items: center;
-  width: 100%; // Default width
-  padding: 10px; // Add spacing inside the box
-  box-sizing: border-box; // Ensure padding doesn't affect width
 }
 
 .author__avatar {
