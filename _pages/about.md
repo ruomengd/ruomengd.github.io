@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a Master's student specializing in Computer Science at Georgia Institute of Technology. Previously, I earned my bachelor’s degrees from Tianjin University. I am fortunate to collaborate with researchers of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research Asia, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/nec.png"> NEC Laboratories America, and <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/tju.png"> Tianjin University. [[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
+Hi, I am a Master's student specializing in Computer Science at Georgia Institute of Technology. Previously, I earned my bachelor’s degrees from Tianjin University. I am fortunate to collaborate with researchers of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research Asia, <img class="intro-logo" style="width: 30px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America, and <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/tju.png"> Tianjin University. [[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
 
 
 My research interests focus on **Trustworthy AI**, **Foundation Models**, and **Reinforcement Learning (RL)**:
@@ -111,10 +111,10 @@ Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
   - Advised by [Dr. Lu Wang](https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en) and [Dr. Chaoyun Zhang](https://www.microsoft.com/en-us/research/people/chaoyunzhang/).
 
 # 🎖 Honors and Fellowships
-- *2023* National Scholarship, TOP 1%, Tianjin University.
-- *2022* Merit Scholarship, TOP 5%, Georgia Institute of Technology (Shenzhen Campus)
-- *2020* People’s Scholarship, TOP 1%, Tianjin University
-- *2019* Merit Scholarship, TOP 5%, Tianjin University
+- *2023*, National Scholarship, TOP 1%, Tianjin University.
+- *2022*, Merit Scholarship, TOP 5%, Georgia Institute of Technology (Shenzhen Campus)
+- *2020*, People’s Scholarship, TOP 1%, Tianjin University
+- *2019*, Merit Scholarship, TOP 5%, Tianjin University
 
 # 🛠️ Services
 - *2024*, Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
