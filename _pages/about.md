@@ -58,7 +58,7 @@ My research interests focus on **Trustworthy AI**, **Foundation Models**, and **
 <!-- ------------------------------- -->
 
 <!-- ------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/nips24-grm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/pdf/2311.04254)
@@ -73,14 +73,14 @@ Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
 <!-- ------------------------------- -->
 
 <!-- ------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESEC/FSE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESEC/FSE 2023</div><img src='images/fse23-tracediag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems](https://arxiv.org/pdf/2311.04254)
+[TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems](https://arxiv.org/pdf/2310.18740)
 
 **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Xiaomin Wu, Meng Zhang, Qingjun Chen, Xin Gao, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang
 
-[**[paper]**](https://arxiv.org/pdf/2311.04254) 
+[**[paper]**](https://arxiv.org/pdf/2310.18740) 
 - Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2023.
 - A end-to-end RCA framework for large-scale microservice systems. It utilizes reinforcement learning to automatically eliminate redundant components, improving RCA efficiency.
 </div>
