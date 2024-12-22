@@ -37,8 +37,9 @@ My research interests focus on **Trustworthy AI**, **Foundation Models**, and **
 
 
 # 🔥 News
-- *Sep, 2024*: &nbsp;🎉🎉 Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024! [[paper]](https://arxiv.org/pdf/2406.10216) [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model) 
-- *May, 2024*: &nbsp;🎉🎉 Our paper, "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation", has been accepted by ACL 2024 as a long paper finding! [[paper]](https://arxiv.org/pdf/2311.04254.pdf) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT)
+- *Dec, 2024*: &nbsp;🎉🎉 One paper is accepted by SDM 2025. 
+- *Sep, 2024*: &nbsp;🎉🎉 Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024. [[paper]](https://arxiv.org/pdf/2406.10216) [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model) 
+- *May, 2024*: &nbsp;🎉🎉 Our paper, "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation", has been accepted by ACL 2024 as a long paper finding. [[paper]](https://arxiv.org/pdf/2311.04254.pdf) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT)
 - *Apr, 2024*: &nbsp;🎉🎉 I am thrilled to announce that I will be joining Microsoft Redmond as a Research Intern this summer. I am excited for the journey ahead and can't wait to be in Seattle!
 
 
@@ -86,10 +87,15 @@ Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
 </div>
 </div>
 <!-- ------------------------------- -->
+- <span class="highlighter-rouge">SDM 2025</span> Evidence-Based Out-of-Distribution Detection on Multi-Label Graphs.
+**Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao, Zhengzhang Chen, Haifeng Chen
 
 - <span class="highlighter-rouge">KDD 2023</span>  [Root cause analysis for microservice systems via hierarchical reinforcement learning from human feedback](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Lu Wang, Chaoyun Zhang, **Ruomeng Ding**, Yong Xu, Qihang Chen, Wentao Zou, Qingjun Chen, Meng Zhang, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599934) 
-- <span class="highlighter-rouge">UDM-AAAI 2023</span>  [Detecting Multi-Label Out-of-Distribution Nodes on Graphs](https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/Ding/CameraReady/AAAI23_UDM_MLVC_CameraReady.pdf), **Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao [[paper]](https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/Ding/CameraReady/AAAI23_UDM_MLVC_CameraReady.pdf) 
+
 - <span class="highlighter-rouge">VLDB 2023</span>  [Imdiffusion: Imputed diffusion models for multivariate time series anomaly detection](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Yuhang Chen, Chaoyun Zhang, Minghua Ma, Yudong Liu, **Ruomeng Ding**, Bowen Li, Shilin He, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2307.00754) [[code]](https://github.com/17000cyh/IMDiffusion) 
+
+- <span class="highlighter-rouge">UDM-AAAI 2023</span>  [Detecting Multi-Label Out-of-Distribution Nodes on Graphs](https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/Ding/CameraReady/AAAI23_UDM_MLVC_CameraReady.pdf), **Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao [[paper]](https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/Ding/CameraReady/AAAI23_UDM_MLVC_CameraReady.pdf) 
+  
 - <span class="highlighter-rouge">TCYB 2023</span>  [Exploring temporal community structure via network embedding](https://ieeexplore.ieee.org/abstract/document/9768181), Tianpeng Li, Wenjun Wang, Pengfei Jiao, Yinghui Wang, **Ruomeng Ding**, Huaming Wu, Lin Pan, Di Jin [[paper]](https://ieeexplore.ieee.org/abstract/document/9768181) 
 
 
