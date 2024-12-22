@@ -87,8 +87,7 @@ Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
 </div>
 </div>
 <!-- ------------------------------- -->
-- <span class="highlighter-rouge">SDM 2025</span> Evidence-Based Out-of-Distribution Detection on Multi-Label Graphs.
-**Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao, Zhengzhang Chen, Haifeng Chen
+- <span class="highlighter-rouge">SDM 2025</span> [Evidence-Based Out-of-Distribution Detection on Multi-Label Graphs](), **Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao, Zhengzhang Chen, Haifeng Chen
 
 - <span class="highlighter-rouge">KDD 2023</span>  [Root cause analysis for microservice systems via hierarchical reinforcement learning from human feedback](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Lu Wang, Chaoyun Zhang, **Ruomeng Ding**, Yong Xu, Qihang Chen, Wentao Zou, Qingjun Chen, Meng Zhang, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599934) 
 
