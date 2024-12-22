@@ -23,12 +23,11 @@ Hi, I am a Master's student specializing in Computer Science at Georgia Institut
 
 <!-- , working with [A/Prof. Minglai Shao](https://shaoml114.github.io/) and [Prof. Wenjun Wang](https://scholar.google.com/citations?hl=en&user=h2WHkq8AAAAJ) -->
 
-
-My research interests focus on **Trustworthy AI**, **Foundation Models**, and **Reinforcement Learning (RL)**:
+My research centers on **Trustworthy AI**, with a focus on integrating **human-in-the-loop** (HITL) to navigate and adapt to **dynamic environments**:
 
 * **Reliability**: integrating external knowledge and tools to enhancing the reasoning and planning capabilities of foundation models; 
 * **Robustness**: advancing RL/RLHF for improved generalization and trustworthiness under distribution shift; 
-* **Applications** of RL and LLMs in specific domains including AIOps, AI4SE, *.etc*. 
+* **Applications** of RL/RLHF and LLMs in specific domains including AIOps, AI4SE, *.etc*. 
 
 <!-- For more information, please check out my Research Statement. -->
 
