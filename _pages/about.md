@@ -45,48 +45,13 @@ Hi, I am a Master's student majoring in Computer Science at Georgia Institute of
 
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl24-xot.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254)
+- <span class="highlighter-rouge">ACL 2024</span>  [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2311.04254) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT) 
 
-**Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang
+- <span class="highlighter-rouge">NeurIPS 2024</span>  [Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/pdf/2406.10216), Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang [[paper]](https://arxiv.org/pdf/2406.10216) [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model) 
 
-[**[paper]**](https://arxiv.org/pdf/2311.04254) [**[code]**](https://github.com/microsoft/Everything-of-Thoughts-XoT) 
-- Findings of the Association for Computational Linguistics (ACL), 2024.
-- Incorporate external domain knowledge into thoughts using RL and Monte Carlo Tree Search (MCTS), enhancing LLMs' capabilities and enabling them to efficiently generalize to unseen problems.
-</div>
-</div>
-<!-- ------------------------------- -->
+- <span class="highlighter-rouge">ESEC/FSE 2023</span>  [TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems](https://arxiv.org/pdf/2310.18740), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Xiaomin Wu, Meng Zhang, Qingjun Chen, Xin Gao, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2310.18740) 
 
-<!-- ------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/nips24-grm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/pdf/2406.10216)
-
-Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
-
-[**[paper]**](https://arxiv.org/pdf/2406.10216) [**[code]**](https://github.com/YangRui2015/Generalizable-Reward-Model) 
-- Neural Information Processing Systems (NeurIPS), 2024.
-- Enhance the reward model's generalization ability against distribution shifts by regularizing the hidden states.
-</div>
-</div>
-<!-- ------------------------------- -->
-
-<!-- ------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESEC/FSE 2023</div><img src='images/fse23-tracediag.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems](https://arxiv.org/pdf/2310.18740)
-
-**Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Xiaomin Wu, Meng Zhang, Qingjun Chen, Xin Gao, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang
-
-[**[paper]**](https://arxiv.org/pdf/2310.18740) 
-- Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2023.
-- A end-to-end RCA framework for large-scale microservice systems. It utilizes reinforcement learning to automatically eliminate redundant components, improving RCA efficiency.
-</div>
-</div>
 <!-- ------------------------------- -->
 <!-- - <span class="highlighter-rouge">SDM 2025</span> [Evidence-Based Out-of-Distribution Detection on Multi-Label Graphs](), **Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao, Zhengzhang Chen, Haifeng Chen -->
 
