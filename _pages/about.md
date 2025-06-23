@@ -68,14 +68,10 @@ Hi, I am an incoming Ph.D. student at UNC-Chapel Hill. I am fortunate to collabo
 # 📖 Educations
 - *2022.08 - 2025.05 (Estimated)*, **M.S. in Computer Science**, **Georgia Institute of Technology**
   - GPA: 4.0/4.0, Both in Atlanta and Shenzhen Campus. 
-  <!-- - pursuing a dual master’s degree at Tianjin University. Expected to graduate with separate M.S. degrees from both institutions in May 2025. -->
-<!-- - *2018.08 - 2022.05*, **Bachelor in Computer Science and Technology**, **Tianjin University** 
+  - pursuing a dual master’s degree at Tianjin University. Expected to graduate with separate M.S. degrees from both institutions in May 2025. 
+- *2018.08 - 2022.05*, **Bachelor in Computer Science and Technology**, **Tianjin University** 
   - GPA: 3.75/4.0, Rank: 11/169 (6.5%).
-  --> -->
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+ -->
 
 # 💻 Internships
 - *2024.05 - 2024.08*, Microsoft Research, Redmond, WA.
