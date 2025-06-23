@@ -92,10 +92,6 @@ Hi, I am an incoming Ph.D. student at UNC-Chapel Hill. I am fortunate to collabo
 # 🛠️ Services
 - Reviewer, KDD 2025, KDD 2024
 - Reviewer, UDM-KDD 2023
+  
 <!-- - *2023*, Reviewer, Journal of Information Processing and Management -->
-<!-- 
-# 🔦 Miscellaneous
-- Practiced synchronized swimming during teens—our team earned 2nd place at the National Youth Competition. Now I swim just for fun. 🏊‍♀️
-- Played the flute in orchestras throughout school and performed in benefit concerts. 🎶
-- Took up piano in 2022—progress is slow, but it's all about the journey. 🎹
-- A big fan of novels and musicals, especially Les Misérables. 🎭 -->
+
