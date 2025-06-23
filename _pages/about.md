@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a Master's student majoring in Computer Science at Georgia Institute of Technology. I am fortunate to collaborate with researchers of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research Asia, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America.
+Hi, I am an incoming phd student at UNC-Chapel Hill. I am fortunate to collaborate with researchers of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research Asia, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America.
 
 <!-- I was a research intern in [Prof. Tong Zhang](https://tongzhang-ml.org/)'s group, working with [Rui Yang](https://yangrui2015.github.io/). I have also spent time at Microsoft Research, advised by [Dr. Minghua Ma](https://www.microsoft.com/en-us/research/people/minghuama/) and managed by [Dr. Ze Li](https://scholar.google.com/citations?user=hhGVDJwAAAAJ&hl=en). Before that, I was a research intern at Microsoft Research Asia, advised by [Dr. Chaoyun Zhang](https://scholar.google.com/citations?user=5h9KUFIAAAAJ&hl=en) and [Dr. Lu Wang](https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en). Previously, I earned my bachelor’s degrees from Tianjin University. I am fortunate to collaborate with researchers of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research Asia, <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America, and <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/tju.png"> Tianjin University. [[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en) -->
 
@@ -64,14 +64,14 @@ Hi, I am a Master's student majoring in Computer Science at Georgia Institute of
 <!-- - <span class="highlighter-rouge">TCYB 2023</span>  [Exploring temporal community structure via network embedding](https://ieeexplore.ieee.org/abstract/document/9768181), Tianpeng Li, Wenjun Wang, Pengfei Jiao, Yinghui Wang, **Ruomeng Ding**, Huaming Wu, Lin Pan, Di Jin [[paper]](https://ieeexplore.ieee.org/abstract/document/9768181)  -->
 
 
-
+<!-- 
 # 📖 Educations
 - *2022.08 - 2025.05 (Estimated)*, **M.S. in Computer Science**, **Georgia Institute of Technology**
   - GPA: 4.0/4.0, Both in Atlanta and Shenzhen Campus. 
   <!-- - pursuing a dual master’s degree at Tianjin University. Expected to graduate with separate M.S. degrees from both institutions in May 2025. -->
 - *2018.08 - 2022.05*, **Bachelor in Computer Science and Technology**, **Tianjin University** 
   - GPA: 3.75/4.0, Rank: 11/169 (6.5%).
- 
+  -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -90,13 +90,12 @@ Hi, I am a Master's student majoring in Computer Science at Georgia Institute of
 - *2019*, Merit Scholarship, TOP 5%, Tianjin University -->
 
 # 🛠️ Services
-- Reviewer, KDD 2025
-- Reviewer, KDD 2024
+- Reviewer, KDD 2025, KDD 2024
 - Reviewer, UDM-KDD 2023
 <!-- - *2023*, Reviewer, Journal of Information Processing and Management -->
-
+<!-- 
 # 🔦 Miscellaneous
 - Practiced synchronized swimming during teens—our team earned 2nd place at the National Youth Competition. Now I swim just for fun. 🏊‍♀️
 - Played the flute in orchestras throughout school and performed in benefit concerts. 🎶
 - Took up piano in 2022—progress is slow, but it's all about the journey. 🎹
-- A big fan of novels and musicals, especially Les Misérables. 🎭
+- A big fan of novels and musicals, especially Les Misérables. 🎭 -->

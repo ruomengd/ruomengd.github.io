@@ -3,14 +3,14 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  # - title: "News"
+  #   url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Educations"
+  #   url: "/#-educations"
 
   - title: "Internships"
     url: "/#-internships"
@@ -21,7 +21,7 @@ main:
   - title: "Services"
     url: "/#-miscellaneous"
 
-  - title: "Miscellaneous"
-    url: "/#-miscellaneous"
+  # - title: "Miscellaneous"
+  #   url: "/#-miscellaneous"
 
   
