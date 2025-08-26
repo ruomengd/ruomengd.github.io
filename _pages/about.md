@@ -79,7 +79,8 @@ Hi, I am a first-year Ph.D. student at UNC-Chapel Hill advised by [Prof. Zhun De
 - *2022.11 - 2023.08*, Microsoft Research Asia, Beijing, China.
   <!-- - Advised by [Dr. Lu Wang](https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en) and [Dr. Chaoyun Zhang](https://www.microsoft.com/en-us/research/people/chaoyunzhang/). -->
 
-<!-- # 🎖 Honors and Fellowships -->
+# 🎖 Honors and Fellowships
+- Doctoral Merit Fellowship, University of North Carolina at Chapel Hill, 2025–2026
 <!-- - *2023*, National Scholarship, TOP 1%, Tianjin University. -->
 <!-- - *2022*, Merit Scholarship, TOP 5%, Georgia Institute of Technology (Shenzhen Campus) -->
 <!-- - *2020*, People's Scholarship, TOP 1%, Tianjin University
