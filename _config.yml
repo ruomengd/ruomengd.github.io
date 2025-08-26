@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruomeng Ding"
   avatar           : "images/profile.png"
-  bio              : "PhD Student @UNC-Chapel Hill"
+  bio              : 
   location         : # "Atlanta, Georgia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en"
-  email            : "rmding@gatech.edu"
+  email            : "ruomeng@unc.cs.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
