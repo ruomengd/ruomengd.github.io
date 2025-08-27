@@ -81,10 +81,7 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 
 # 🎖 Honors and Fellowships
 - Doctoral Merit Fellowship, University of North Carolina at Chapel Hill, 2025–2026
-<!-- - *2023*, National Scholarship, TOP 1%, Tianjin University. 
-- *2022*, Merit Scholarship, TOP 5%, Georgia Institute of Technology (Shenzhen Campus) 
-- *2020*, People's Scholarship, TOP 1%, Tianjin University
-- *2019*, Merit Scholarship, TOP 5%, Tianjin University  -->
+- Merit Scholarship, Georgia Institute of Technology, 2022-2023
 
 # 🛠️ Services
 - Reviewer, KDD 2025, KDD 2024
