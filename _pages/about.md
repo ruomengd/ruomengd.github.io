@@ -83,9 +83,9 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 - Doctoral Merit Fellowship, University of North Carolina at Chapel Hill, 2025–2026
 - Merit Scholarship, Georgia Institute of Technology, 2022-2023
 
-# 🛠️ Services
+<!-- # 🛠️ Services
 - Reviewer, KDD 2025, KDD 2024
 - Reviewer, UDM-KDD 2023
-  
+   -->
 <!-- - *2023*, Reviewer, Journal of Information Processing and Management -->
 
