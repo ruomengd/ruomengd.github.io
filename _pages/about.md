@@ -50,7 +50,7 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 
 # 📝 Selected Publications 
 
-- <span class="highlighter-rouge">AAAI 2026</span>  [ SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://ruomengd.github.io/), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao 
+- <span class="highlighter-rouge">AAAI 2026 (Oral)</span>  [ SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://ruomengd.github.io/), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao 
 
 
 - <span class="highlighter-rouge">ACL 2024</span>  [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2311.04254) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT) 
