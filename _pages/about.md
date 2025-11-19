@@ -37,7 +37,7 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 
 <!-- For more information, please check out my Research Statement. -->
 
-<!-- **<font color="red"> I am actively seeking PhD positions for Fall 2025. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <font color="blue">rmding@gatech.edu</font>. I am very interested in discussing any potential opportunities. Thank you!</font>**
+**<font color="red"> I am actively seeking 2026 summer internships. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <font color="blue">ruomeng@cs.unc.edu</font>. I am very interested in discussing any potential opportunities. Thank you!</font>** -
 
  -->
 
@@ -50,8 +50,7 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 
 # 📝 Selected Publications 
 
-- <span class="highlighter-rouge">AAAI 2026 (Oral)</span>  [ SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://ruomengd.github.io/), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao 
-
+- <span class="highlighter-rouge">AAAI 2026</span>  [ SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://ruomengd.github.io/), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao  **(Oral)** [[paper]](https://arxiv.org/pdf/2511.14670) [[code]](https://github.com/ruomengd/SkillGen) 
 
 - <span class="highlighter-rouge">ACL 2024</span>  [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2311.04254) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT) 
 
