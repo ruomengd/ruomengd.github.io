@@ -37,9 +37,7 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 
 <!-- For more information, please check out my Research Statement. -->
 
-**<font color="red"> I am actively seeking 2026 summer internships. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <font color="blue">ruomeng@cs.unc.edu</font>. I am very interested in discussing any potential opportunities. Thank you!</font>** -
-
- -->
+**<font color="red"> I am actively seeking 2026 summer internships. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <font color="blue">ruomeng@cs.unc.edu</font>. I am very interested in discussing any potential opportunities. Thank you!</font>** 
 
 <!-- # 🔥 News
 - *Dec, 2024*: &nbsp;🎉🎉 One paper is accepted by SDM 2025. 
