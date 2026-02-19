@@ -19,36 +19,38 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/unc.jpeg"> UNC-Chapel Hill advised by [Prof. Zhun Deng](https://www.zhundeng.org/home). Before joining UNC, I completed my Master’s degree in Computer Science at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech. I am also fortunate to collaborate with researchers of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America. Currently, my research focuses on LLM Reasoning, Active Learning, and Trustworthy AI. I am particularly interested in:
-- Integrating external knowledge and tools to enhance the reasoning and planning capabilities of foundation models;
-- Leveraging LLMs with active learning to drive human-in-the-loop acquisition and evaluation, allocating feedback where it most improves reliability and calibration.
+Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/unc.jpeg"> UNC-Chapel Hill advised by [Prof. Zhun Deng](https://www.zhundeng.org/home). Before joining UNC, I completed my Master’s degree in Computer Science at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech. I am also fortunate to collaborate with researchers of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America. 
+
+Currently, I study how foundation models reason, acquire supervision, and adapt through structured interaction—while remaining robust and trustworthy, with the goal of building scalable and reliable intelligent systems under real-world uncertainty.
 
 [[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
 
-<!-- I was a research intern in [Prof. Tong Zhang](https://tongzhang-ml.org/)'s group, working with [Rui Yang](https://yangrui2015.github.io/). I have also spent time at Microsoft Research, advised by [Dr. Minghua Ma](https://www.microsoft.com/en-us/research/people/minghuama/) and managed by [Dr. Ze Li](https://scholar.google.com/citations?user=hhGVDJwAAAAJ&hl=en). Before that, I was a research intern at Microsoft Research Asia, advised by [Dr. Chaoyun Zhang](https://scholar.google.com/citations?user=5h9KUFIAAAAJ&hl=en) and [Dr. Lu Wang](https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en). Previously, I earned my bachelor’s degrees from Tianjin University. I am fortunate to collaborate with researchers of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research Asia, <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America, and <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/tju.png"> Tianjin University. [[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en) -->
 
-<!-- , working with [A/Prof. Minglai Shao](https://shaoml114.github.io/) and [Prof. Wenjun Wang](https://scholar.google.com/citations?hl=en&user=h2WHkq8AAAAJ) -->
 
-<!-- My research centers on **Trustworthy AI**, with a focus on integrating **human-in-the-loop** (HITL) to navigate and adapt to **dynamic environments**:
+**<font color="red"> I am actively seeking 2026 summer internships. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <font color="blue">ruomeng@cs.unc.edu</font>.</font>** 
 
-* **Reliability**: integrating external knowledge and tools to enhancing the reasoning and planning capabilities of foundation models; 
-* **Robustness**: advancing RL/RLHF for improved generalization and trustworthiness under distribution shift; 
-* **Applications** of RL/RLHF and LLMs in specific domains including AIOps, AI4SE, *.etc*.  -->
+# 🔥 News
 
-<!-- For more information, please check out my Research Statement. -->
+- [02/2026] New arXiv preprint: *Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges*. [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
+- [02/2026] New arXiv preprint: *Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions*. [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
+- [01/2026] I will serve as a reviewer for AIMS @ ICLR 2026
+- [01/2026] I will serve as a reviewer for ICML 2026
+- [01/2026] I will serve as a reviewer for KDD 2026
+- [11/2025] A paper is accepted by AAAI 2026 (Oral)
 
-**<font color="red"> I am actively seeking 2026 summer internships. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <font color="blue">ruomeng@cs.unc.edu</font>. I am very interested in discussing any potential opportunities. Thank you!</font>** 
-
-<!-- # 🔥 News
-- *Dec, 2024*: &nbsp;🎉🎉 One paper is accepted by SDM 2025. 
+<!-- - *Dec, 2024*: &nbsp;🎉🎉 One paper is accepted by SDM 2025. 
 - *Sep, 2024*: &nbsp;🎉🎉 Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024. [[paper]](https://arxiv.org/pdf/2406.10216) [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model) 
 - *May, 2024*: &nbsp;🎉🎉 Our paper, "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation", has been accepted by ACL 2024 as a long paper finding. [[paper]](https://arxiv.org/pdf/2311.04254.pdf) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT)
 - *Apr, 2024*: &nbsp;🎉🎉 I am thrilled to announce that I will be joining Microsoft Redmond as a Research Intern this summer. I am excited for the journey ahead and can't wait to be in Seattle! -->
 
+# 📄 Preprint
+- <span class="highlighter-rouge">Preprint</span>  [Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges](https://arxiv.org/pdf/2602.13576), **Ruomeng Ding**\*, Yifei Pang\*, He Sun, Yizhong Wang, Zhiwei Steven Wu, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
+
+- <span class="highlighter-rouge">Preprint</span>  [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/pdf/2602.14279), **Ruomeng Ding**\*, Tianwei Gao\*, Thomas P. Zollo, Eitan Bachmat, Richard Zemel, and Zhun Deng†¹ [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation) 
 
 # 📝 Selected Publications 
 
-- <span class="highlighter-rouge">AAAI 2026</span>  [ SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://ruomengd.github.io/), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao  **(Oral)** [[paper]](https://arxiv.org/pdf/2511.14670) [[code]](https://github.com/ruomengd/SkillGen) 
+- <span class="highlighter-rouge">AAAI 2026</span>  [ SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://arxiv.org/pdf/2511.14670), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao  **(Oral)** [[paper]](https://arxiv.org/pdf/2511.14670) [[code]](https://github.com/ruomengd/SkillGen) 
 
 - <span class="highlighter-rouge">ACL 2024</span>  [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2311.04254) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT) 
 

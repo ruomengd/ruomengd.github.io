@@ -9,7 +9,7 @@
 title                    : "Ruomeng Ding"
 description              : ""
 repository               : "ruomengd/ruomengd.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -24,7 +24,7 @@ author:
   name             : "Ruomeng Ding"
   avatar           : "images/profile.png"
   bio              : 
-  location         : # "Atlanta, Georgia"
+  location         : "Chapel Hill, North Carolina"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # "ruomeng-ding-ba3b08235"
+  linkedin         :  "ruomeng-ding-ba3b08235"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0002-7800-8227"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "ding_ruomeng"
+  twitter          :  "ding_ruomeng"
   vine             :
   weibo            :
   xing             :
