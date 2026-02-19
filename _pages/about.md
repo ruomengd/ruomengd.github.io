@@ -31,10 +31,10 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 
 - [02/2026] New arXiv preprint: *Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges*. [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
 - [02/2026] New arXiv preprint: *Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions*. [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
-- [01/2026] I will serve as a reviewer for AIMS @ ICLR 2026
-- [01/2026] I will serve as a reviewer for ICML 2026
-- [01/2026] I will serve as a reviewer for KDD 2026
-- [11/2025] A paper is accepted by AAAI 2026 (Oral)
+- [01/2026] I will serve as a reviewer for AIMS @ ICLR 2026.
+- [01/2026] I will serve as a reviewer for ICML 2026.
+- [01/2026] I will serve as a reviewer for KDD 2026.
+- [11/2025] A paper is accepted by AAAI 2026 (Oral).
 
 <!-- - *Dec, 2024*: &nbsp;🎉🎉 One paper is accepted by SDM 2025. 
 - *Sep, 2024*: &nbsp;🎉🎉 Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024. [[paper]](https://arxiv.org/pdf/2406.10216) [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model) 
