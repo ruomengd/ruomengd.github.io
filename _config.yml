@@ -14,6 +14,9 @@ google_scholar_stats_use_cdn : false
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
+# Visitor map (ClustrMaps) - leave blank to hide. Get your free ID at https://clustrmaps.com/
+clustrmaps_id            : "VTST7b5iCuOfrnwmPnn1XeB8Pc9XhOI2dBffWSpILfQ" 
+
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
