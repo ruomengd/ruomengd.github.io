@@ -44,7 +44,7 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 # 📄 Preprint
 - <span class="highlighter-rouge">Preprint</span>  [Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges](https://arxiv.org/pdf/2602.13576), **Ruomeng Ding**\*, Yifei Pang\*, He Sun, Yizhong Wang, Zhiwei Steven Wu, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
 
-- <span class="highlighter-rouge">Preprint</span>  [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/pdf/2602.14279), **Ruomeng Ding**\*, Tianwei Gao\*, Thomas P. Zollo, Eitan Bachmat, Richard Zemel, and Zhun Deng†¹ [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation) 
+- <span class="highlighter-rouge">Preprint</span>  [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/pdf/2602.14279), **Ruomeng Ding**\*, Tianwei Gao\*, Thomas P. Zollo, Eitan Bachmat, Richard Zemel, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation) 
 
 # 📝 Selected Publications 
 
