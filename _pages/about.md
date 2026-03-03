@@ -28,13 +28,13 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 **<font color="red"> I am actively seeking 2026 summer internships. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <font color="blue">ruomeng@cs.unc.edu</font>.</font>** 
 
 # 🔥 News
-
-- [02/2026] New arXiv preprint: *Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges*. [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
-- [02/2026] New arXiv preprint: *Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions*. [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
-- [01/2026] I will serve as a reviewer for AIMS @ ICLR 2026.
-- [01/2026] I will serve as a reviewer for ICML 2026.
-- [01/2026] I will serve as a reviewer for KDD 2026.
-- [11/2025] A paper is accepted by AAAI 2026 (Oral).
+- **[03/2026]** 🎉 Two papers accepted at ICLR 2026 Workshops [ICBINB](https://sites.google.com/view/icbinb-2026/home) & [AIMS](https://alimama-tech.github.io/aims-2026/#). See you in Rio! 🇧🇷
+- **[02/2026]** 🚀 New arXiv preprint: *Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges*. [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
+- **[02/2026]** 🚀 New arXiv preprint: *Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions*. [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
+- **[01/2026]** I will serve as a reviewer for AIMS @ ICLR 2026.
+- **[01/2026]** I will serve as a reviewer for ICML 2026.
+- **[01/2026]** I will serve as a reviewer for KDD 2026.
+- **[11/2025]** 🎉 Paper accepted at AAAI 2026 (Oral).
 
 <!-- - *Dec, 2024*: &nbsp;🎉🎉 One paper is accepted by SDM 2025. 
 - *Sep, 2024*: &nbsp;🎉🎉 Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024. [[paper]](https://arxiv.org/pdf/2406.10216) [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model) 
