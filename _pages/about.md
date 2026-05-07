@@ -28,6 +28,7 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 <!-- **<font color="red"> I am actively seeking 2026 summer internships. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <font color="blue">ruomeng@cs.unc.edu</font>.</font>**  -->
 
 # 🔥 News
+- **[05/2026]** 🎉 One paper accepted at ICML 2026.
 - **[04/2026]** I will join <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/tongyi.jpeg">Tongyi Lab as a research intern in Summer 2026.
 - **[03/2026]** 🎉 Two papers accepted at ICLR 2026 Workshops [ICBINB](https://sites.google.com/view/icbinb-2026/home) & [AIMS](https://alimama-tech.github.io/aims-2026/#). See you in Rio! 🇧🇷
 - **[02/2026]** 🚀 New arXiv preprint: *Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges*. [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
@@ -35,7 +36,7 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 - **[01/2026]** I will serve as a reviewer for AIMS @ ICLR 2026.
 - **[01/2026]** I will serve as a reviewer for ICML 2026.
 - **[01/2026]** I will serve as a reviewer for KDD 2026.
-- **[11/2025]** 🎉 Paper accepted at AAAI 2026 (Oral).
+- **[11/2025]** 🎉 One paper accepted at AAAI 2026 (Oral).
 
 <!-- - *Dec, 2024*: &nbsp;🎉🎉 One paper is accepted by SDM 2025. 
 - *Sep, 2024*: &nbsp;🎉🎉 Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024. [[paper]](https://arxiv.org/pdf/2406.10216) [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model) 
@@ -45,9 +46,10 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 # 📄 Preprint
 - <span class="highlighter-rouge">Preprint</span>  [Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges](https://arxiv.org/pdf/2602.13576), **Ruomeng Ding**\*, Yifei Pang\*, He Sun, Yizhong Wang, Zhiwei Steven Wu, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
 
-- <span class="highlighter-rouge">Preprint</span>  [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/pdf/2602.14279), **Ruomeng Ding**\*, Tianwei Gao\*, Thomas P. Zollo, Eitan Bachmat, Richard Zemel, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation) 
 
 # 📝 Selected Publications 
+
+- <span class="highlighter-rouge">ICML 2026</span>  [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/pdf/2602.14279), **Ruomeng Ding**\*, Tianwei Gao\*, Thomas P. Zollo, Eitan Bachmat, Richard Zemel, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation) 
 
 - <span class="highlighter-rouge">AAAI 2026</span>  [ SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://arxiv.org/pdf/2511.14670), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao  **(Oral)** [[paper]](https://arxiv.org/pdf/2511.14670) [[code]](https://github.com/ruomengd/SkillGen) 
 
