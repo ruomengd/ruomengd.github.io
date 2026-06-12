@@ -19,17 +19,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/unc.jpeg"> UNC-Chapel Hill advised by [Prof. Zhun Deng](https://www.zhundeng.org/home). Before joining UNC, I completed my Master’s degree in Computer Science at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech. I am also fortunate to collaborate with researchers of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America. Currently, I study how foundation models reason, acquire supervision, and adapt through structured interaction, with the goal of building scalable and reliable intelligent systems under real-world uncertainty.
+Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/unc.jpeg"> UNC-Chapel Hill advised by [Prof. Zhun Deng](https://www.zhundeng.org/home). Before joining UNC, I completed my Master’s degree in Computer Science at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech. I am also fortunate to collaborate with researchers of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America. 
+<!-- Currently, I study how foundation models reason, acquire supervision, and adapt through structured interaction, with the goal of building scalable and reliable intelligent systems under real-world uncertainty. -->
 
-[[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
-
+<!-- [[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
+ -->
 
 
 <!-- **<font color="red"> I am actively seeking 2026 summer internships. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <font color="blue">ruomeng@cs.unc.edu</font>.</font>**  -->
 
 # 🔥 News
 - **[05/2026]** 🎉 One paper accepted at ICML 2026.
-- **[04/2026]** I will join <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/tongyi.jpeg">Tongyi Lab as a research intern in Summer 2026.
+<!-- - **[04/2026]** I will join <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/tongyi.jpeg">Tongyi Lab as a research intern in Summer 2026. -->
 - **[03/2026]** 🎉 Two papers accepted at ICLR 2026 Workshops [ICBINB](https://sites.google.com/view/icbinb-2026/home) & [AIMS](https://alimama-tech.github.io/aims-2026/#). See you in Rio! 🇧🇷
 - **[02/2026]** 🚀 New arXiv preprint: *Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges*. [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
 - **[02/2026]** 🚀 New arXiv preprint: *Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions*. [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
@@ -43,9 +44,9 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 - *May, 2024*: &nbsp;🎉🎉 Our paper, "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation", has been accepted by ACL 2024 as a long paper finding. [[paper]](https://arxiv.org/pdf/2311.04254.pdf) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT)
 - *Apr, 2024*: &nbsp;🎉🎉 I am thrilled to announce that I will be joining Microsoft Redmond as a Research Intern this summer. I am excited for the journey ahead and can't wait to be in Seattle! -->
 
-# 📄 Preprint
+<!-- # 📄 Preprint
 - <span class="highlighter-rouge">Preprint</span>  [Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges](https://arxiv.org/pdf/2602.13576), **Ruomeng Ding**\*, Yifei Pang\*, He Sun, Yizhong Wang, Zhiwei Steven Wu, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
-
+ -->
 
 # 📝 Selected Publications 
 
