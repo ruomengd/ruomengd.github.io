@@ -29,7 +29,8 @@ Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19p
 <!-- **<font color="red"> I am actively seeking 2026 summer internships. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <font color="blue">ruomeng@cs.unc.edu</font>.</font>**  -->
 
 # 🔥 News
-- **[05/2026]** 🎉 One paper accepted at ICML 2026.
+- **[07/2026]** 🎉 One paper accepted at COLM 2026.
+- **[05/2026]** 🎉 One paper accepted at ICML 2026. See you in Seuol! 🇰🇷
 <!-- - **[04/2026]** I will join <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/tongyi.jpeg">Tongyi Lab as a research intern in Summer 2026. -->
 - **[03/2026]** 🎉 Two papers accepted at ICLR 2026 Workshops [ICBINB](https://sites.google.com/view/icbinb-2026/home) & [AIMS](https://alimama-tech.github.io/aims-2026/#). See you in Rio! 🇧🇷
 <!-- - **[02/2026]** 🚀 New arXiv preprint: *Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges*. [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface) -->
