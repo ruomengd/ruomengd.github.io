@@ -1,4 +1,32 @@
-<script src="assets/js/main.min.js"></script>
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+
+{% if site.clustrmaps_id %}
+<script>
+  (function () {
+    function loadVisitorMap() {
+      var selector = window.matchMedia('(min-width: 768px)').matches
+        ? '.visitor-map--desktop .visitor-map'
+        : '.visitor-map--mobile .visitor-map';
+      var container = document.querySelector(selector);
+
+      if (!container || container.querySelector('#clustrmaps')) return;
+
+      var script = document.createElement('script');
+      script.id = 'clustrmaps';
+      script.src = 'https://clustrmaps.com/map_v2.js?d=' +
+        encodeURIComponent(container.getAttribute('data-clustrmaps-id')) +
+        '&cl=ffffff&w=a';
+      container.appendChild(script);
+    }
+
+    if (document.readyState === 'complete') {
+      loadVisitorMap();
+    } else {
+      window.addEventListener('load', loadVisitorMap, { once: true });
+    }
+  }());
+</script>
+{% endif %}
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

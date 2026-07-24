@@ -1,5 +1,3 @@
 {% if site.clustrmaps_id %}
-<div class="visitor-map" style="margin-top: 1.5em;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d={{ site.clustrmaps_id }}&cl=ffffff&w=a"></script>
-</div>
+<div class="visitor-map" data-clustrmaps-id="{{ site.clustrmaps_id }}" style="margin-top: 1.5em;"></div>
 {% endif %}
