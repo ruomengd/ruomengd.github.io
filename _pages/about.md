@@ -19,9 +19,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a first-year Ph.D. student at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/unc.jpeg"> UNC-Chapel Hill advised by [Prof. Zhun Deng](https://www.zhundeng.org/home). Before joining UNC, I completed my Master’s degree in Computer Science at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech. I am also fortunate to collaborate with researchers of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America. Currently, I study how LLM agents reason, seek feedback, and improve through interaction with tools, environments, and other AI systems. I am particularly interested in AI4AI—using AI to generate supervision, evaluate models, and guide their improvement—with the goal of building more scalable and reliable intelligent systems.
+Hi, I am a second-year Ph.D. student at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/unc.jpeg"> UNC-Chapel Hill advised by [Prof. Zhun Deng](https://www.zhundeng.org/home). Before joining UNC, I completed my Master’s degree in Computer Science at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech. I am also fortunate to collaborate with researchers at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America. I study how LLM agents reason and learn through interaction, how to efficiently acquire feedback from diverse individuals, and how to build reliable evaluation and reward signals. Recently, I have been particularly interested in AI4AI—using AI systems to automate data engineering, evaluation, and model improvement.
 
-Research interests: LLM Agents · Adaptive Data Acquisition · LLM Evaluation & Alignment · AI4AI
+Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation · Reliable LLM Evaluation · AI4AI
 
 [[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
  
@@ -29,13 +29,17 @@ Research interests: LLM Agents · Adaptive Data Acquisition · LLM Evaluation & 
  <font color="red"> I am actively seeking 2027 summer internships. If you have or know of any opportunities that align with my interests, please contact me at <font color="blue">ruomeng@cs.unc.edu</font>.</font>
 
 # 🔥 News
+- **[09/2026]** 🚀 New arXiv preprint: *Speculative Evaluation of Stochastic LLMs*. [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
+- **[09/2026]** 🎉 Three papers accepted at NeurIPS 2026 workshops: [WAPA](https://openreview.net/forum?id=GiRtUYmJvF) @ [FLLMPT](https://www.fllmpt-work.shop/), [ADE](https://openreview.net/forum?id=bTVUsrguDi) @ [AutoMLR](https://automlr.com/), and [SpecEval](https://openreview.net/forum?id=IvzVKsdcH9) @ [TAE](https://tai-eval.github.io/). ArXiv versions will be released soon.
 - **[07/2026]** 🎉 One paper accepted at COLM 2026.
+- **[07/2026]** I will serve as a reviewer for AAAI 2027.
 - **[05/2026]** 🎉 One paper accepted at ICML 2026. See you in Seoul! 🇰🇷
-<!-- - **[04/2026]** I will join <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/tongyi.jpeg">Tongyi Lab as a research intern in Summer 2026. -->
+- **[05/2026]** I will serve as a reviewer for NeurIPS 2026.
+- **[04/2026]** I will join <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/tongyi.jpeg">Alibaba Tongyi Lab as a research intern in Summer 2026.
 - **[03/2026]** 🎉 Two papers accepted at ICLR 2026 Workshops [ICBINB](https://sites.google.com/view/icbinb-2026/home) & [AIMS](https://alimama-tech.github.io/aims-2026/#). See you in Rio! 🇧🇷
-<!-- - **[02/2026]** 🚀 New arXiv preprint: *Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges*. [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface) -->
+- **[02/2026]** 🚀 New arXiv preprint: *Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges*. [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
 - **[02/2026]** 🚀 New arXiv preprint: *Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions*. [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
-- **[01/2026]** I will serve as a reviewer for AIMS @ ICLR 2026.
+<!-- - **[01/2026]** I will serve as a reviewer for AIMS @ ICLR 2026. -->
 - **[01/2026]** I will serve as a reviewer for ICML 2026.
 - **[01/2026]** I will serve as a reviewer for KDD 2026.
 - **[11/2025]** 🎉 One paper accepted at AAAI 2026 (Oral).
@@ -47,29 +51,54 @@ Research interests: LLM Agents · Adaptive Data Acquisition · LLM Evaluation & 
 
 
 
-# 📝 Selected Publications 
+# 📝 Selected Publications
 
-- <span class="highlighter-rouge">COLM 2026</span>  [Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges](https://arxiv.org/pdf/2602.13576), **Ruomeng Ding**\*, Yifei Pang\*, He Sun, Yizhong Wang, Zhiwei Steven Wu, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
- 
-- <span class="highlighter-rouge">ICML 2026</span>  [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/pdf/2602.14279), **Ruomeng Ding**\*, Tianwei Gao\*, Thomas P. Zollo, Eitan Bachmat, Richard Zemel, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation) 
+\* Equal contribution.
 
-- <span class="highlighter-rouge">AAAI 2026</span>  [ SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://arxiv.org/pdf/2511.14670), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao  **(Oral)** [[paper]](https://arxiv.org/pdf/2511.14670) [[code]](https://github.com/ruomengd/SkillGen) 
+<details class="publication-category" markdown="1">
+<summary>LLM Agents &amp; Reasoning</summary>
 
-- <span class="highlighter-rouge">ACL 2024</span>  [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2311.04254) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT) 
+- <span class="pub-tag pub-tag--workshop">AutoMLR @NeurIPS 2026</span> [Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study](https://openreview.net/forum?id=bTVUsrguDi), **Ruomeng Ding**, Qianli Shen, ZhaoYang Han, Meixin Chen, Daoyuan Chen, Yaliang Li [[paper]](https://openreview.net/forum?id=bTVUsrguDi)
 
-- <span class="highlighter-rouge">NeurIPS 2024</span>  [Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/pdf/2406.10216), Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang [[paper]](https://arxiv.org/pdf/2406.10216) [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model) 
+- <span class="pub-tag pub-tag--conference">AAAI 2026</span> <span class="pub-tag pub-tag--highlight">Oral</span> [SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://arxiv.org/pdf/2511.14670), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao [[paper]](https://arxiv.org/pdf/2511.14670) [[code]](https://github.com/ruomengd/SkillGen)
 
-- <span class="highlighter-rouge">ESEC/FSE 2023</span>  [TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems](https://arxiv.org/pdf/2310.18740), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Xiaomin Wu, Meng Zhang, Qingjun Chen, Xin Gao, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2310.18740) 
+- <span class="pub-tag pub-tag--conference">ACL 2024</span> [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2311.04254) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT)
 
-<!-- ------------------------------- -->
-<!-- - <span class="highlighter-rouge">SDM 2025</span> [Evidence-Based Out-of-Distribution Detection on Multi-Label Graphs](), **Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao, Zhengzhang Chen, Haifeng Chen -->
+</details>
 
-- <span class="highlighter-rouge">KDD 2023</span>  [Root cause analysis for microservice systems via hierarchical reinforcement learning from human feedback](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Lu Wang, Chaoyun Zhang, **Ruomeng Ding**, Yong Xu, Qihang Chen, Wentao Zou, Qingjun Chen, Meng Zhang, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599934) 
+<details class="publication-category" markdown="1">
+<summary>Preference Learning &amp; Elicitation</summary>
 
-- <span class="highlighter-rouge">VLDB 2023</span>  [Imdiffusion: Imputed diffusion models for multivariate time series anomaly detection](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Yuhang Chen, Chaoyun Zhang, Minghua Ma, Yudong Liu, **Ruomeng Ding**, Bowen Li, Shilin He, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2307.00754) [[code]](https://github.com/17000cyh/IMDiffusion) 
+- <span class="pub-tag pub-tag--workshop">FLLMPT @NeurIPS 2026</span> [Who Should We Listen to More? Welfare-Aware Preference Acquisition for Pluralistic Alignment](https://openreview.net/forum?id=GiRtUYmJvF), **Ruomeng Ding**, Tianwei Gao, Lianrui Geng, and Zhun Deng [[paper]](https://openreview.net/pdf?id=GiRtUYmJvF)
 
-<!-- - <span class="highlighter-rouge">UDM-AAAI 2023</span>  [Detecting Multi-Label Out-of-Distribution Nodes on Graphs](https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/Ding/CameraReady/AAAI23_UDM_MLVC_CameraReady.pdf), **Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao [[paper]](https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/Ding/CameraReady/AAAI23_UDM_MLVC_CameraReady.pdf) 
-   -->
+- <span class="pub-tag pub-tag--conference">ICML 2026</span> [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/pdf/2602.14279), **Ruomeng Ding**\*, Tianwei Gao\*, Thomas P. Zollo, Eitan Bachmat, Richard Zemel, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
+
+</details>
+
+<details class="publication-category" markdown="1">
+<summary>Reliable LLM Evaluation</summary>
+
+- <span class="pub-tag pub-tag--workshop">TAE @NeurIPS 2026</span> <span class="pub-tag pub-tag--arxiv">arXiv</span> [Speculative Evaluation of Stochastic LLMs](https://arxiv.org/pdf/2609.28560), Qianli Shen, Xiang Li, **Ruomeng Ding**, Yanxi Chen, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
+
+- <span class="pub-tag pub-tag--conference">COLM 2026</span> [Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges](https://arxiv.org/pdf/2602.13576), **Ruomeng Ding**\*, Yifei Pang\*, He Sun, Yizhong Wang, Zhiwei Steven Wu, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
+
+- <span class="pub-tag pub-tag--conference">NeurIPS 2024</span> [Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/pdf/2406.10216), Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang [[paper]](https://arxiv.org/pdf/2406.10216) [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model)
+
+</details>
+
+<details class="publication-category" markdown="1">
+<summary>Reliable Machine Learning &amp; Applications</summary>
+
+- <span class="pub-tag pub-tag--conference">SDM 2025</span> [Evidence-Based Out-of-Distribution Detection on Multi-Label Graphs](), **Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao, Zhengzhang Chen, Haifeng Chen
+
+- <span class="pub-tag pub-tag--conference">ESEC/FSE 2023</span> [TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems](https://arxiv.org/pdf/2310.18740), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Xiaomin Wu, Meng Zhang, Qingjun Chen, Xin Gao, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2310.18740)
+
+- <span class="pub-tag pub-tag--conference">KDD 2023</span> [Root cause analysis for microservice systems via hierarchical reinforcement learning from human feedback](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Lu Wang, Chaoyun Zhang, **Ruomeng Ding**, Yong Xu, Qihang Chen, Wentao Zou, Qingjun Chen, Meng Zhang, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599934)
+
+- <span class="pub-tag pub-tag--conference">VLDB 2023</span> [ImDiffusion: Imputed diffusion models for multivariate time series anomaly detection](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Yuhang Chen, Chaoyun Zhang, Minghua Ma, Yudong Liu, **Ruomeng Ding**, Bowen Li, Shilin He, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2307.00754) [[code]](https://github.com/17000cyh/IMDiffusion)
+
+</details>
+
 <!-- - <span class="highlighter-rouge">TCYB 2023</span>  [Exploring temporal community structure via network embedding](https://ieeexplore.ieee.org/abstract/document/9768181), Tianpeng Li, Wenjun Wang, Pengfei Jiao, Yinghui Wang, **Ruomeng Ding**, Huaming Wu, Lin Pan, Di Jin [[paper]](https://ieeexplore.ieee.org/abstract/document/9768181)  -->
 
 
@@ -83,6 +112,8 @@ Research interests: LLM Agents · Adaptive Data Acquisition · LLM Evaluation & 
  -->
 
 # 💻 Internships
+- *2026.05 - 2026.08*, Alibaba Tongyi Lab, Hangzhou, China.
+  <!-- - Advised by [Dr. Qianli Shen](https://shenqianli.github.io/) and [Daoyuan Chen](https://yxdyc.github.io/). -->
 - *2024.05 - 2024.08*, Microsoft Research, Redmond, WA.
   <!-- - Advised by [Dr. Minghua Ma](https://www.microsoft.com/en-us/research/people/minghuama/) and [Dr. Ze Li](https://scholar.google.com/citations?user=hhGVDJwAAAAJ&hl=en). -->
 - *2022.11 - 2023.08*, Microsoft Research Asia, Beijing, China.
@@ -97,4 +128,3 @@ Research interests: LLM Agents · Adaptive Data Acquisition · LLM Evaluation & 
 - Reviewer, UDM-KDD 2023
    -->
 <!-- - *2023*, Reviewer, Journal of Information Processing and Management -->
-

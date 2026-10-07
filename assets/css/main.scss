@@ -40,6 +40,63 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.publication-category {
+    margin: 1em 0;
+
+    > summary {
+        cursor: pointer;
+        font-size: 1.25em;
+        font-weight: bold;
+        padding: 0.4em 0;
+    }
+
+    &[open] > summary {
+        margin-bottom: 0.6em;
+    }
+}
+
+.publication-category .pub-tag {
+    display: inline-block;
+    padding: 0.15em 0.6em;
+    margin: 0 0.2em 0.3em 0;
+    border-radius: 999px;
+    font-size: 0.75em;
+    font-weight: 600;
+    line-height: 1.5;
+    vertical-align: middle;
+    white-space: nowrap;
+    text-decoration: none;
+
+    &--conference {
+        color: #174b80;
+        background: #e8f1fc;
+    }
+
+    &--workshop {
+        color: #623c8c;
+        background: #f1eafa;
+    }
+
+    &--arxiv {
+        color: #424b57;
+        background: #edf0f3;
+    }
+
+    &--highlight {
+        color: #864400;
+        background: #fff0d9;
+    }
+
+    &[href]:hover {
+        text-decoration: underline;
+    }
+
+    &[href]:focus-visible {
+        outline: 2px solid currentColor;
+        outline-offset: 2px;
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
