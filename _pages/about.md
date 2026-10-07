@@ -25,7 +25,7 @@ Before joining UNC, I completed my Master’s degree in Computer Science at <img
 
 Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation · Reliable LLM Evaluation · AI4AI
 
-[[Resume]](http://ruomengd.github.io/output/pdf/ruomeng_cv.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
+[[Resume]](/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
  
 
  <font color="red"> I am actively seeking 2027 summer internships. If you have or know of any opportunities that align with my interests, please contact me at <font color="blue">ruomeng@cs.unc.edu</font>.</font>
@@ -72,7 +72,7 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 <details class="publication-category" markdown="1" open>
 <summary>Preference Learning &amp; Elicitation</summary>
 
-- <span class="pub-tag pub-tag--workshop">FLLMPT Workshop @NeurIPS 2026</span> [Who Should We Listen to More? Welfare-Aware Preference Acquisition for Pluralistic Alignment](https://openreview.net/forum?id=GiRtUYmJvF), **Ruomeng Ding**, Tianwei Gao, Lianrui Geng, and Zhun Deng [[paper]](https://openreview.net/pdf?id=GiRtUYmJvF)
+- <span class="pub-tag pub-tag--workshop">FLLMPT Workshop @NeurIPS 2026</span> [Who Should We Listen to More? Welfare-Aware Preference Acquisition for Pluralistic Alignment](https://openreview.net/forum?id=GiRtUYmJvF), **Ruomeng Ding**, Tianwei Gao, Lianrui Geng, and Zhun Deng [[paper]](https://openreview.net/forum?id=GiRtUYmJvF)
 
 - <span class="pub-tag pub-tag--conference">ICML 2026</span> [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/pdf/2602.14279), **Ruomeng Ding**\*, Tianwei Gao\*, Thomas P. Zollo, Eitan Bachmat, Richard Zemel, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
 
