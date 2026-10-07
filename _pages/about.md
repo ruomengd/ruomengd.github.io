@@ -115,7 +115,7 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
  -->
 
 # 💻 Internships
-- *2026.05 - 2026.08*, Alibaba Tongyi Lab, Hangzhou, China.
+- *2026.05 - 2026.08*, Alibaba Token Foundry (Tongyi Lab), Hangzhou, China.
   <!-- - Advised by [Dr. Qianli Shen](https://shenqianli.github.io/) and [Daoyuan Chen](https://yxdyc.github.io/). -->
 - *2024.05 - 2024.08*, Microsoft Research, Redmond, WA.
   <!-- - Advised by [Dr. Minghua Ma](https://www.microsoft.com/en-us/research/people/minghuama/) and [Dr. Ze Li](https://scholar.google.com/citations?user=hhGVDJwAAAAJ&hl=en). -->
