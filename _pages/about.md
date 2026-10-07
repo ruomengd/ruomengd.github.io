@@ -19,18 +19,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a second-year Ph.D. student at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/unc.jpeg"> UNC-Chapel Hill advised by [Prof. Zhun Deng](https://www.zhundeng.org/home). Before joining UNC, I completed my Master’s degree in Computer Science at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech. I am also fortunate to collaborate with researchers at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America. I study how LLM agents learn and improve through interaction, with a focus on eliciting human preferences and developing reliable evaluation methods. Recently, I have been particularly interested in AI4AI—using AI systems to automate data engineering, evaluation, and model improvement.
+Hi, I am a second-year Ph.D. student at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/unc.jpeg"> UNC-Chapel Hill advised by [Prof. Zhun Deng](https://www.zhundeng.org/home). Currently, I study how LLM agents learn and improve through interaction, with a focus on eliciting human preferences and developing reliable evaluation methods. I have been particularly interested in AI4AI—using AI systems to automate data engineering, evaluation, and model improvement. Please feel free to reach out if you are interested in collaborating.
+
+Before joining UNC, I completed my Master’s degree in Computer Science at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech. I am also fortunate to collaborate with researchers at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America.
 
 Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation · Reliable LLM Evaluation · AI4AI
 
-[[Resume]](http://ruomengd.github.io/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
+[[Resume]](http://ruomengd.github.io/output/pdf/ruomeng_cv.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
  
 
  <font color="red"> I am actively seeking 2027 summer internships. If you have or know of any opportunities that align with my interests, please contact me at <font color="blue">ruomeng@cs.unc.edu</font>.</font>
 
 # 🔥 News
-- **[09/2026]** 🚀 New arXiv preprint: *Speculative Evaluation of Stochastic LLMs*. [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
+- **[10/2026]** 🚀 New arXiv preprint: *Speculative Evaluation of Stochastic LLMs*. [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
 - **[09/2026]** 🎉 Three papers accepted at NeurIPS 2026 workshops: [WAPA](https://openreview.net/forum?id=GiRtUYmJvF) @ [FLLMPT](https://www.fllmpt-work.shop/), [ADE](https://openreview.net/forum?id=bTVUsrguDi) @ [AutoMLR](https://automlr.com/), and [SpecEval](https://openreview.net/forum?id=IvzVKsdcH9) @ [TAE](https://tai-eval.github.io/). ArXiv versions will be released soon.
+- **[09/2026]** I will serve as a reviewer for ICLR 2027.
 - **[07/2026]** 🎉 One paper accepted at COLM 2026.
 - **[07/2026]** I will serve as a reviewer for AAAI 2027.
 - **[05/2026]** 🎉 One paper accepted at ICML 2026. See you in Seoul! 🇰🇷
@@ -78,7 +81,7 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 <details class="publication-category" markdown="1" open>
 <summary>Reliable LLM Evaluation</summary>
 
-- <span class="pub-tag pub-tag--workshop">TAE Workshop @NeurIPS 2026</span> <span class="pub-tag pub-tag--arxiv">arXiv</span> [Speculative Evaluation of Stochastic LLMs](https://arxiv.org/pdf/2609.28560), Qianli Shen, Xiang Li, **Ruomeng Ding**, Yanxi Chen, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
+- <span class="pub-tag pub-tag--workshop">TAE Workshop @NeurIPS 2026</span> <span class="pub-tag pub-tag--preprint">Preprint</span> [Speculative Evaluation of Stochastic LLMs](https://arxiv.org/pdf/2609.28560), Qianli Shen, Xiang Li, **Ruomeng Ding**, Yanxi Chen, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
 
 - <span class="pub-tag pub-tag--conference">COLM 2026</span> [Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges](https://arxiv.org/pdf/2602.13576), **Ruomeng Ding**\*, Yifei Pang\*, He Sun, Yizhong Wang, Zhiwei Steven Wu, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
 

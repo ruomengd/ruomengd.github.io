@@ -1,0 +1,157 @@
+\documentclass{resume}
+\usepackage[left=0.6in,top=0.55in,right=0.6in,bottom=0.55in]{geometry}
+\usepackage[default,semibold]{sourcesanspro}
+\usepackage{enumitem}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{date}{HTML}{666666}
+\usepackage{bibentry}
+\makeatletter\let\saved@bibitem\@bibitem\makeatother
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,urlcolor=RoyalPurple,pdftitle={Ruomeng Ding - Curriculum Vitae},pdfauthor={Ruomeng Ding}}
+\usepackage{fancyhdr}
+\usepackage{needspace}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\small\color{date}\thepage}
+\setlength{\footskip}{22pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+\raggedbottom
+\setlength{\emergencystretch}{1em}
+\setlist[itemize]{leftmargin=1.2em,itemsep=1pt,topsep=2pt,parsep=0pt,partopsep=0pt}
+\setlist[enumerate]{leftmargin=1.7em,itemsep=4pt,topsep=2pt,parsep=0pt,partopsep=0pt,before={\interlinepenalty=10000}}
+\newcommand{\publication}[1]{\bibentry{#1}}
+\newcommand{\pubgroup}[1]{\par\Needspace{7\baselineskip}\textbf{#1}\par\vspace{-3pt}}
+\newcommand{\role}[4]{\par\Needspace{7\baselineskip}\textbf{#1}, \textbf{#2}\hfill #3\\#4\par}
+% Render the header after document initialization, not inside the class hook.
+\renewcommand{\printname}{}
+\renewcommand{\printaddress}[1]{}
+\begin{document}
+\fontsize{10}{11.5}\selectfont
+\begin{center}
+{\huge\bfseries Ruomeng Ding}\\[5pt]
+\href{mailto:ruomeng@cs.unc.edu}{ruomeng@cs.unc.edu}\quad
+\href{https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en}{Google Scholar}\quad
+\href{https://github.com/ruomengd}{GitHub}\quad
+\href{https://ruomengd.github.io/}{Homepage}
+\end{center}
+\begingroup
+\makeatletter\let\@bibitem\saved@bibitem\makeatother
+\nobibliography{publications}
+\endgroup
+\bibliographystyle{ieeetr}
+
+\begin{center}
+\textbf{Research interests:} LLM Agents \& Reasoning $\cdot$ Preference Learning \& Elicitation $\cdot$ Reliable LLM Evaluation
+\end{center}
+
+\begin{rSection}{Education}
+\textbf{Ph.D. in Computer Science}, \href{https://www.unc.edu/}{University of North Carolina at Chapel Hill}\hfill Aug 2025 -- Present
+\begin{itemize}
+\item Advised by \href{https://www.zhundeng.org/home}{Prof. Zhun Deng}.
+\end{itemize}
+\textbf{M.S. in Computer Science}, \href{https://www.gatech.edu/}{Georgia Institute of Technology}\hfill Aug 2022 -- May 2025
+\begin{itemize}
+\item GPA: 4.00/4.00; specialization: Machine Learning.
+\end{itemize}
+\textbf{B.Eng. in Computer Science and Technology}, \href{https://www.tju.edu.cn/english/index.htm}{Tianjin University}\hfill Aug 2018 -- May 2022
+\begin{itemize}
+\item GPA: 3.75/4.00; major rank: 11/169 (top 6.5\%).
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Publications}
+\textit{* Equal contribution. Workshop papers are identified explicitly.}
+
+\pubgroup{LLM Agents \& Reasoning}
+\begin{enumerate}[series=publications]
+\item \publication{ding2026ade}
+[\href{https://openreview.net/forum?id=bTVUsrguDi}{paper}]
+\item \publication{skillgen}
+[\href{https://arxiv.org/pdf/2511.14670}{paper}] [\href{https://github.com/ruomengd/SkillGen}{code}]
+\item \publication{ding-etal-2024-everything}
+[\href{https://aclanthology.org/2024.findings-acl.95.pdf}{paper}] [\href{https://github.com/microsoft/Everything-of-Thoughts-XoT}{code}]
+\end{enumerate}
+
+\pubgroup{Preference Learning \& Elicitation}
+\begin{enumerate}[resume=publications]
+\item \publication{ding2026wapa}
+[\href{https://openreview.net/pdf?id=GiRtUYmJvF}{paper}]
+\item \publication{ding2026querywhatadaptivegroup}
+[\href{https://arxiv.org/pdf/2602.14279}{paper}] [\href{https://github.com/ZDCSlab/Group-Adaptive-Elicitation}{code}]
+\end{enumerate}
+
+\pubgroup{Reliable LLM Evaluation}
+\begin{enumerate}[resume=publications]
+\item \publication{shen2026speceval}
+[\href{https://arxiv.org/pdf/2609.28560}{paper}] [\href{https://github.com/ShenQianli/SpecEval}{code}]
+\item \publication{ding2026rubricsattacksurfacestealthy}
+[\href{https://arxiv.org/pdf/2602.13576}{paper}] [\href{https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface}{code}]
+\item \publication{yang2024regularizing}
+[\href{https://arxiv.org/pdf/2406.10216}{paper}] [\href{https://github.com/YangRui2015/Generalizable-Reward-Model}{code}]
+\end{enumerate}
+
+\pubgroup{Reliable Machine Learning \& Applications}
+\begin{enumerate}[resume=publications]
+\item \publication{ding2025evidence}
+[\href{https://epubs.siam.org/doi/10.1137/1.9781611978520.63}{paper}]
+\item \publication{ding2023tracediag}
+[\href{https://arxiv.org/pdf/2310.18740}{paper}] [\href{https://drive.google.com/file/d/1YXnIW_s3ju7y1ZXG8CjsuoG4GFpbk5hY/view}{slides}]
+\item \publication{wang2023root}
+[\href{https://dl.acm.org/doi/10.1145/3580305.3599934}{paper}]
+\item \publication{chen2023imdiffusion}
+[\href{https://arxiv.org/pdf/2307.00754}{paper}] [\href{https://github.com/17000cyh/IMDiffusion}{code}]
+\end{enumerate}
+\end{rSection}
+
+\Needspace{10\baselineskip}
+\begin{rSection}{Research Experience}
+\role{Research Intern}{Alibaba Tongyi Lab}{May 2026 -- Aug 2026}{Hangzhou, China (Onsite)}
+Advised by \href{https://shenqianli.github.io/}{Dr. Qianli Shen} and \href{https://yxdyc.github.io/}{Daoyuan Chen}.
+\begin{itemize}
+\item Investigated agent-driven data selection, reward design, and curriculum learning for LLM training.
+\item Developed Agentic Data Engineering to refine strategies using cumulative experimental feedback; evaluated generalization across four held-out benchmarks.
+\end{itemize}
+
+\role{Research Intern}{Microsoft Research}{May 2024 -- Aug 2024}{Redmond, WA (Onsite)}
+Advised by \href{https://www.microsoft.com/en-us/research/people/minghuama/}{Dr. Minghua Ma} and \href{https://scholar.google.com/citations?user=hhGVDJwAAAAJ&hl=en}{Dr. Ze Li}.
+\begin{itemize}
+\item Developed LLM-based multi-agent systems for incident triage.
+\item Designed methods, conducted experiments, and developed prototypes.
+\end{itemize}
+
+\role{Research Assistant}{University of Illinois Urbana-Champaign}{Mar 2024 -- Jul 2024}{Urbana, IL (Remote)}
+Advised by \href{https://tongzhang-ml.org/}{Dr. Tong Zhang}, working with \href{https://yangrui2015.github.io/}{Rui Yang}.
+\begin{itemize}
+\item Studied reward model generalization under distribution shifts for reinforcement learning from human feedback (RLHF); second author of a NeurIPS 2024 paper.
+\item Conducted literature review and RLHF experiments; contributed to paper writing and the code repository.
+\end{itemize}
+
+\role{Research Intern}{Microsoft Research Asia}{Nov 2022 -- Aug 2023}{Beijing, China (Hybrid)}
+Advised by \href{https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en}{Dr. Lu Wang} and \href{https://scholar.google.com/citations?user=5h9KUFIAAAAJ&hl=en}{Dr. Chaoyun Zhang}.
+\begin{itemize}
+\item Improved LLM reasoning with domain knowledge and Monte Carlo Tree Search; led methodology, experiments, writing, and code release (Findings of ACL 2024, first author).
+\item Developed RL- and RLHF-based root cause analysis for large-scale microservice systems, with deployment in M365 (KDD 2023, third author; ESEC/FSE 2023, first author).
+\end{itemize}
+
+\role{Research Assistant}{Tianjin University}{Aug 2021 -- Aug 2022}{Tianjin, China (Onsite)}
+Advised by \href{https://scholar.google.com/citations?hl=en&user=2FDgNl0AAAAJ}{Dr. Minglai Shao} and \href{https://scholar.google.com/citations?hl=en&user=h2WHkq8AAAAJ}{Dr. Wenjun Wang}.
+\begin{itemize}
+\item Studied multi-label out-of-distribution detection on graphs, co-advised by \href{https://scholar.google.com/citations?hl=en&user=k2-JcFAAAAAJ}{Dr. Xujiang Zhao} and \href{https://scholar.google.com/citations?user=xebNvXQAAAAJ&hl=en}{Dr. Chen Zhao} (UDM Workshop at AAAI 2023, first author).
+\item Conducted experiments on dynamic community detection on graphs (IEEE Transactions on Cybernetics, 2023).
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Honors and Fellowships}
+\textbf{Doctoral Merit Fellowship}, University of North Carolina at Chapel Hill\hfill 2025--2026\\[5pt]
+\textbf{Merit Scholarship}, Georgia Institute of Technology\hfill 2022--2023
+\end{rSection}
+
+\begin{rSection}{Academic Service}
+\vspace{5pt}
+\begin{itemize}
+\item Conference reviewer: AAAI 2026--2027, ICLR 2026--2027, COLM 2026, NeurIPS 2026, ICML 2026, KDD 2025--2026.
+\end{itemize}
+\end{rSection}
+\end{document}
