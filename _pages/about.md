@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a second-year Ph.D. student at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/unc.jpeg"> UNC-Chapel Hill advised by [Prof. Zhun Deng](https://www.zhundeng.org/home). Before joining UNC, I completed my Master’s degree in Computer Science at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech. I am also fortunate to collaborate with researchers at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America. I study how LLM agents reason and learn through interaction, how to efficiently acquire feedback from diverse individuals, and how to build reliable evaluation and reward signals. Recently, I have been particularly interested in AI4AI—using AI systems to automate data engineering, evaluation, and model improvement.
+Hi, I am a second-year Ph.D. student at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/unc.jpeg"> UNC-Chapel Hill advised by [Prof. Zhun Deng](https://www.zhundeng.org/home). Before joining UNC, I completed my Master’s degree in Computer Science at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech. I am also fortunate to collaborate with researchers at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America. I study how LLM agents learn and improve through interaction, with a focus on eliciting human preferences and developing reliable evaluation methods. Recently, I have been particularly interested in AI4AI—using AI systems to automate data engineering, evaluation, and model improvement.
 
 Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation · Reliable LLM Evaluation · AI4AI
 
@@ -55,10 +55,10 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 
 \* Equal contribution.
 
-<details class="publication-category" markdown="1">
+<details class="publication-category" markdown="1" open>
 <summary>LLM Agents &amp; Reasoning</summary>
 
-- <span class="pub-tag pub-tag--workshop">AutoMLR @NeurIPS 2026</span> [Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study](https://openreview.net/forum?id=bTVUsrguDi), **Ruomeng Ding**, Qianli Shen, ZhaoYang Han, Meixin Chen, Daoyuan Chen, Yaliang Li [[paper]](https://openreview.net/forum?id=bTVUsrguDi)
+- <span class="pub-tag pub-tag--workshop">AutoMLR Workshop @NeurIPS 2026</span> [Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study](https://openreview.net/forum?id=bTVUsrguDi), **Ruomeng Ding**, Qianli Shen, ZhaoYang Han, Meixin Chen, Daoyuan Chen, Yaliang Li [[paper]](https://openreview.net/forum?id=bTVUsrguDi)
 
 - <span class="pub-tag pub-tag--conference">AAAI 2026</span> <span class="pub-tag pub-tag--highlight">Oral</span> [SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://arxiv.org/pdf/2511.14670), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao [[paper]](https://arxiv.org/pdf/2511.14670) [[code]](https://github.com/ruomengd/SkillGen)
 
@@ -66,19 +66,19 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 
 </details>
 
-<details class="publication-category" markdown="1">
+<details class="publication-category" markdown="1" open>
 <summary>Preference Learning &amp; Elicitation</summary>
 
-- <span class="pub-tag pub-tag--workshop">FLLMPT @NeurIPS 2026</span> [Who Should We Listen to More? Welfare-Aware Preference Acquisition for Pluralistic Alignment](https://openreview.net/forum?id=GiRtUYmJvF), **Ruomeng Ding**, Tianwei Gao, Lianrui Geng, and Zhun Deng [[paper]](https://openreview.net/pdf?id=GiRtUYmJvF)
+- <span class="pub-tag pub-tag--workshop">FLLMPT Workshop @NeurIPS 2026</span> [Who Should We Listen to More? Welfare-Aware Preference Acquisition for Pluralistic Alignment](https://openreview.net/forum?id=GiRtUYmJvF), **Ruomeng Ding**, Tianwei Gao, Lianrui Geng, and Zhun Deng [[paper]](https://openreview.net/pdf?id=GiRtUYmJvF)
 
 - <span class="pub-tag pub-tag--conference">ICML 2026</span> [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/pdf/2602.14279), **Ruomeng Ding**\*, Tianwei Gao\*, Thomas P. Zollo, Eitan Bachmat, Richard Zemel, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
 
 </details>
 
-<details class="publication-category" markdown="1">
+<details class="publication-category" markdown="1" open>
 <summary>Reliable LLM Evaluation</summary>
 
-- <span class="pub-tag pub-tag--workshop">TAE @NeurIPS 2026</span> <span class="pub-tag pub-tag--arxiv">arXiv</span> [Speculative Evaluation of Stochastic LLMs](https://arxiv.org/pdf/2609.28560), Qianli Shen, Xiang Li, **Ruomeng Ding**, Yanxi Chen, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
+- <span class="pub-tag pub-tag--workshop">TAE Workshop @NeurIPS 2026</span> <span class="pub-tag pub-tag--arxiv">arXiv</span> [Speculative Evaluation of Stochastic LLMs](https://arxiv.org/pdf/2609.28560), Qianli Shen, Xiang Li, **Ruomeng Ding**, Yanxi Chen, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
 
 - <span class="pub-tag pub-tag--conference">COLM 2026</span> [Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges](https://arxiv.org/pdf/2602.13576), **Ruomeng Ding**\*, Yifei Pang\*, He Sun, Yizhong Wang, Zhiwei Steven Wu, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
 
@@ -86,7 +86,7 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 
 </details>
 
-<details class="publication-category" markdown="1">
+<details class="publication-category" markdown="1" open>
 <summary>Reliable Machine Learning &amp; Applications</summary>
 
 - <span class="pub-tag pub-tag--conference">SDM 2025</span> [Evidence-Based Out-of-Distribution Detection on Multi-Label Graphs](), **Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao, Zhengzhang Chen, Haifeng Chen

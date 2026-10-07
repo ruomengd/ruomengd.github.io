@@ -40,6 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.visitor-map-widget > span {
+    position: relative;
+    margin-right: 0 !important; // Override the provider's extra map-width margin.
+}
+
 .publication-category {
     margin: 1em 0;
 

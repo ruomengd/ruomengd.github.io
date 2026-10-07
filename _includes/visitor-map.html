@@ -1,3 +1,9 @@
-{% if site.clustrmaps_id %}
-<div class="visitor-map" data-clustrmaps-id="{{ site.clustrmaps_id }}" style="margin-top: 1.5em;"></div>
+{% if site.visitor_map_id %}
+<div class="visitor-map" data-visitor-map-id="{{ site.visitor_map_id }}" style="margin-top: 1.5em;">
+  <div class="visitor-map-widget"></div>
+  <p class="visitor-map-status" hidden>
+    Visitor map is temporarily unavailable.
+    <button type="button" class="visitor-map-retry">Retry</button>
+  </p>
+</div>
 {% endif %}
