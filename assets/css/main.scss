@@ -45,6 +45,13 @@
     margin-right: 0 !important; // Override the provider's extra map-width margin.
 }
 
+.visitor-map-widget > span > span > img {
+    // Keep provider markers at their intended size despite .sidebar img.
+    width: 10px;
+    height: 10px;
+    max-width: none;
+}
+
 .publication-category {
     margin: 1em 0;
 
