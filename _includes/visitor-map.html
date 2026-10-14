@@ -1,6 +1,8 @@
 {% if site.visitor_map_id %}
-<div class="visitor-map" data-visitor-map-id="{{ site.visitor_map_id }}" style="margin-top: 1.5em;">
-  <div class="visitor-map-widget"></div>
+<div class="visitor-map" data-visitor-map-id="{{ site.visitor_map_id }}">
+  <div class="visitor-map-heading">Visitors around the world</div>
+  <div class="visitor-map-widget" aria-label="Visitor locations on a world map"></div>
+  <a class="visitor-map-details" href="https://whos.amung.us/stats/{{ site.visitor_map_id }}/" target="_blank" rel="noopener noreferrer">View visitor stats <span aria-hidden="true">↗</span></a>
   <p class="visitor-map-status" hidden>
     Visitor map is temporarily unavailable.
     <button type="button" class="visitor-map-retry">Retry</button>

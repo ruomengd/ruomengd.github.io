@@ -16,9 +16,26 @@
       clearTimeout(renderTimeout);
       loading = false;
       status.hidden = true;
+      fitMap();
     }
   });
   observer.observe(widget, { childList: true, subtree: true });
+
+  // Scale the map and its coordinates together inside narrow sidebars.
+  function fitMap() {
+    var rendered = widget.querySelector('span');
+    if (!rendered) return;
+    var scale = Math.min(1, widget.clientWidth / 200);
+    rendered.style.transformOrigin = 'top left';
+    rendered.style.transform = 'scale(' + scale + ')';
+    widget.style.height = (100 * scale) + 'px';
+  }
+
+  if (typeof ResizeObserver === 'function') {
+    new ResizeObserver(fitMap).observe(widget);
+  } else {
+    window.addEventListener('resize', fitMap);
+  }
 
   function placeMap() {
     var target = document.querySelector(desktop.matches
@@ -30,6 +47,7 @@
     document.querySelectorAll('.visitor-map-wrapper').forEach(function (wrapper) {
       if (wrapper !== target) wrapper.style.display = 'none';
     });
+    fitMap();
   }
 
   function loadMap() {
@@ -49,12 +67,12 @@
       window._wau = window._wau || [];
       queueIndex = window._wau.length;
       window._wau.push(['map', map.getAttribute('data-visitor-map-id'),
-        'visitor', '200', '100', 'classic', 'default-blue']);
+        'visitor', '200', '100', 'dashmap', 'default-blue']);
     }
 
     if (typeof window.WAU_map === 'function') {
       window.WAU_map(map.getAttribute('data-visitor-map-id'),
-        '200', '100', 'classic', 'default-blue', queueIndex);
+        '200', '100', 'dashmap', 'default-blue', queueIndex);
       return;
     }
 
