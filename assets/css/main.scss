@@ -45,20 +45,11 @@
     width: 226px;
     max-width: 100%;
     margin-top: 1.75em;
-    padding: 14px 12px 10px;
+    padding: 12px;
     box-sizing: border-box;
     border: 1px solid #e5eaf0;
     border-radius: 12px;
     background: #fff;
-}
-
-.visitor-map-heading {
-    margin-bottom: 12px;
-    color: #596879;
-    font-size: 11px;
-    font-weight: 600;
-    line-height: 1.4;
-    letter-spacing: 0.025em;
 }
 
 .visitor-map-widget {
@@ -95,26 +86,6 @@
     max-width: none;
     filter: none !important;
     animation: none !important;
-}
-
-.visitor-map .visitor-map-details {
-    display: block;
-    margin-top: 12px;
-    padding-top: 9px;
-    border-top: 1px solid #eef1f5;
-    color: #6b7f94;
-    font-size: 10px;
-    line-height: 1.5;
-    text-decoration: none;
-}
-
-.visitor-map .visitor-map-details:hover {
-    color: #174b80;
-    text-decoration: underline;
-}
-
-.visitor-map-details span {
-    float: right;
 }
 
 .visitor-map-status {
