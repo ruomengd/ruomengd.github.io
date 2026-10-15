@@ -26,11 +26,13 @@
   }
 
   .visitor-map--mobile {
+    /* The preceding page content floats; keep the map below it. */
+    clear: both;
     display: block;
     margin-top: 1.5em;
   }
 
-  @media (min-width: 768px) {
+  @media (min-width: 57.8125em) {
     .visitor-map--desktop {
       display: block;
     }

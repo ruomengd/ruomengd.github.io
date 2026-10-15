@@ -30,6 +30,7 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 
 # 🔥 News
 - **[10/2026]** 🚀 New arXiv preprint: *Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study*. [[paper]](https://arxiv.org/pdf/2610.14238) [[code]](https://github.com/datajuicer/agentic-data-engineering/tree/main)
+- **[10/2026]** 🚀 New arXiv preprint: *Who Should We Listen to More? Welfare-Aware Preference Acquisition for Pluralistic Alignment*. [[paper]](https://arxiv.org/pdf/2610.19035) [[code]](https://github.com/ZDCSlab/Welfare-Aware-Preference-Acquisition)
 - **[10/2026]** 🚀 New arXiv preprint: *Speculative Evaluation of Stochastic LLMs*. [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
 - **[09/2026]** 🎉 Three papers accepted at NeurIPS 2026 workshops: [WAPA](https://openreview.net/forum?id=GiRtUYmJvF) @ [FLLMPT](https://www.fllmpt-work.shop/), [ADE](https://openreview.net/forum?id=bTVUsrguDi) @ [AutoMLR](https://automlr.com/), and [SpecEval](https://openreview.net/forum?id=IvzVKsdcH9) @ [TAE](https://tai-eval.github.io/).
 - **[09/2026]** I will serve as a reviewer for ICLR 2027.
@@ -71,7 +72,7 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 <details class="publication-category" markdown="1" open>
 <summary>Preference Learning &amp; Elicitation</summary>
 
-- <span class="pub-tag pub-tag--workshop">FLLMPT Workshop @NeurIPS 2026</span> [Who Should We Listen to More? Welfare-Aware Preference Acquisition for Pluralistic Alignment](https://openreview.net/forum?id=GiRtUYmJvF), **Ruomeng Ding**, Tianwei Gao, Lianrui Geng, and Zhun Deng [[paper]](https://openreview.net/forum?id=GiRtUYmJvF)
+- <span class="pub-tag pub-tag--preprint">Preprint</span> <span class="pub-tag pub-tag--workshop">FLLMPT Workshop @NeurIPS 2026</span> [Who Should We Listen to More? Welfare-Aware Preference Acquisition for Pluralistic Alignment](https://arxiv.org/pdf/2610.19035), **Ruomeng Ding**\*, Tianwei Gao\*, Lianrui Geng, Mohit Bansal, and Zhun Deng [[paper]](https://arxiv.org/pdf/2610.19035) [[code]](https://github.com/ZDCSlab/Welfare-Aware-Preference-Acquisition)
 
 - <span class="pub-tag pub-tag--conference">ICML 2026</span> [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/pdf/2602.14279), **Ruomeng Ding**\*, Tianwei Gao\*, Thomas P. Zollo, Eitan Bachmat, Richard Zemel, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
 

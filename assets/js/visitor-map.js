@@ -4,7 +4,8 @@
   var map = document.querySelector('.visitor-map');
   if (!map) return;
 
-  var desktop = window.matchMedia('(min-width: 768px)');
+  // Match the sidebar breakpoint ($large: 925px, emitted as ems).
+  var desktop = window.matchMedia('(min-width: 57.8125em)');
   var widget = map.querySelector('.visitor-map-widget');
   var status = map.querySelector('.visitor-map-status');
   var retry = map.querySelector('.visitor-map-retry');
