@@ -55,6 +55,8 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 
 
 
+<span class='anchor' id='-selected-publications'></span>
+
 # 📝 Selected Publications & Preprints
 
 \* Equal contribution.
@@ -126,6 +128,8 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 # 🎖 Honors and Fellowships
 - Doctoral Merit Fellowship, University of North Carolina at Chapel Hill, 2025–2026
 - Merit Scholarship, Georgia Institute of Technology, 2022-2023
+
+<span class='anchor' id='service'></span>
 
 # 🛠️ Service
 - Conference reviewer: AAAI 2026–2027, ICLR 2026–2027, COLM 2026, NeurIPS 2026, ICML 2026 (**Gold Reviewer**), KDD 2025–2026.

@@ -18,8 +18,8 @@ main:
   - title: "Honors and Fellowships"
     url: "/#-honors-and-fellowships"
 
-  # - title: "Services"
-  #   url: "/#-miscellaneous"
+  - title: "Service"
+    url: "/#service"
 
   # - title: "Miscellaneous"
   #   url: "/#-miscellaneous"
