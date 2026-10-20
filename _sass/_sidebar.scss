@@ -239,6 +239,12 @@
 
   li {
     white-space: nowrap;
+
+    @include breakpoint($large) {
+      // Keep long profile details inside the sidebar as its column narrows.
+      white-space: normal;
+      overflow-wrap: anywhere;
+    }
   }
 
   a {
