@@ -114,7 +114,7 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
   - GPA: 3.75/4.0, Rank: 11/169 (6.5%).
  -->
 
-# 💻 Internships
+# 💻 Experience
 - *2026.05 - 2026.08*, Alibaba Token Foundry (Tongyi Lab), Hangzhou, China.
   <!-- - Advised by [Dr. Qianli Shen](https://shenqianli.github.io/) and [Daoyuan Chen](https://yxdyc.github.io/). -->
 - *2024.05 - 2024.08*, Microsoft Research, Redmond, WA.
