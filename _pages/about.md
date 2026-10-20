@@ -29,7 +29,7 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
  <font color="red"> I am actively seeking 2027 summer internships. If you have or know of any opportunities that align with my interests, please contact me at <font color="blue">ruomeng@cs.unc.edu</font>.</font>
 
 # 🔥 News
-- **[10/2026]** 🚀 New arXiv preprint: *Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study*. [[paper]](https://arxiv.org/pdf/2610.14238) [[code]](https://github.com/datajuicer/agentic-data-engineering/tree/main)
+- **[10/2026]** 🚀 New arXiv preprint: *Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study*. [[paper]](https://arxiv.org/pdf/2610.14238) [[code]](https://github.com/datajuicer/agentic-data-engineering/tree/main) [[homepage]](https://datajuicer.github.io/agentic-data-engineering/)
 - **[10/2026]** 🚀 New arXiv preprint: *Welfare-Aware Preference Acquisition for Pluralistic Alignment*. [[paper]](https://arxiv.org/pdf/2610.19035) [[code]](https://github.com/ZDCSlab/Welfare-Aware-Preference-Acquisition)
 - **[10/2026]** 🚀 New arXiv preprint: *Speculative Evaluation of Stochastic LLMs*. [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
 - **[09/2026]** 🎉 Three papers accepted at NeurIPS 2026 workshops: [WAPA](https://openreview.net/forum?id=GiRtUYmJvF) @ [FLLMPT](https://www.fllmpt-work.shop/), [ADE](https://openreview.net/forum?id=bTVUsrguDi) @ [AutoMLR](https://automlr.com/), and [SpecEval](https://openreview.net/forum?id=IvzVKsdcH9) @ [TAE](https://tai-eval.github.io/).
@@ -61,7 +61,7 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 <details class="publication-category" markdown="1" open>
 <summary>LLM Agents &amp; Reasoning</summary>
 
-- <span class="pub-tag pub-tag--preprint">Preprint</span> <span class="pub-tag pub-tag--workshop">AutoMLR Workshop @NeurIPS 2026</span> [Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study](https://arxiv.org/pdf/2610.14238), **Ruomeng Ding**, Qianli Shen, Zhaoyang Han, Meixin Chen, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2610.14238) [[code]](https://github.com/datajuicer/agentic-data-engineering/tree/main)
+- <span class="pub-tag pub-tag--preprint">Preprint</span> <span class="pub-tag pub-tag--workshop">AutoMLR Workshop @NeurIPS 2026</span> [Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study](https://arxiv.org/pdf/2610.14238), **Ruomeng Ding**, Qianli Shen, Zhaoyang Han, Meixin Chen, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2610.14238) [[code]](https://github.com/datajuicer/agentic-data-engineering/tree/main) [[homepage]](https://datajuicer.github.io/agentic-data-engineering/)
 
 - <span class="pub-tag pub-tag--conference">AAAI 2026</span> <span class="pub-tag pub-tag--highlight">Oral</span> [SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://arxiv.org/pdf/2511.14670), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao [[paper]](https://arxiv.org/pdf/2511.14670) [[code]](https://github.com/ruomengd/SkillGen)
 
