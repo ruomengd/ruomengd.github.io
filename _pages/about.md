@@ -36,7 +36,7 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 - **[09/2026]** I will serve as a reviewer for ICLR 2027.
 - **[07/2026]** 🎉 One paper accepted at COLM 2026.
 - **[07/2026]** I will serve as a reviewer for AAAI 2027.
-- **[05/2026]** 🏅 Recognized as a **Gold Reviewer** at ICML 2026.
+- **[05/2026]** 🏅 Recognized as a Gold Reviewer at ICML 2026.
 - **[05/2026]** 🎉 One paper accepted at ICML 2026. See you in Seoul! 🇰🇷
 - **[05/2026]** I will serve as a reviewer for NeurIPS 2026.
 - **[04/2026]** I will join <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/tongyi.jpeg">Alibaba Tongyi Lab as a research intern in Summer 2026.
