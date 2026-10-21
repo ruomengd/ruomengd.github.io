@@ -26,9 +26,16 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 [[Resume]](/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
  
 
- <font color="red"> I am actively seeking 2027 summer internships. If you have or know of any opportunities that align with my interests, please contact me at <font color="blue">ruomeng@cs.unc.edu</font>.</font>
+<div class="internship-notice" markdown="1">
+
+I am actively seeking **2027 summer internships**. If you have or know of any opportunities that align with my interests, please contact me at [ruomeng@cs.unc.edu](mailto:ruomeng@cs.unc.edu).
+
+</div>
 
 # 🔥 News
+
+<div class="news-scroll" markdown="1" role="region" aria-label="News" tabindex="0">
+
 - **[10/2026]** 🚀 New arXiv preprint: *Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study*. [[paper]](https://arxiv.org/pdf/2610.14238) [[homepage]](https://datajuicer.github.io/agentic-data-engineering/)
 - **[10/2026]** 🚀 New arXiv preprint: *Welfare-Aware Preference Acquisition for Pluralistic Alignment*. [[paper]](https://arxiv.org/pdf/2610.19035) [[code]](https://github.com/ZDCSlab/Welfare-Aware-Preference-Acquisition)
 - **[10/2026]** 🚀 New arXiv preprint: *Speculative Evaluation of Stochastic LLMs*. [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
@@ -47,6 +54,8 @@ Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation 
 - **[01/2026]** I will serve as a reviewer for ICML 2026.
 - **[01/2026]** I will serve as a reviewer for KDD 2026.
 - **[11/2025]** 🎉 One paper accepted at AAAI 2026 (Oral).
+
+</div>
 
 <!-- - *Dec, 2024*: &nbsp;🎉🎉 One paper is accepted by SDM 2025. 
 - *Sep, 2024*: &nbsp;🎉🎉 Our paper, "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs", has been accepted by NeurIPS 2024. [[paper]](https://arxiv.org/pdf/2406.10216) [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model) 
