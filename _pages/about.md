@@ -36,24 +36,25 @@ I am actively seeking **2027 summer internships**. If you have or know of any op
 
 <div class="news-scroll" markdown="1" role="region" aria-label="News" tabindex="0">
 
+- **[10/2026]** 🚀 New arXiv preprint: *A Unified Arena for LLM Agents across Diverse Eurogame*. [[paper]](https://arxiv.org/pdf/2610.35773)
 - **[10/2026]** 🚀 New arXiv preprint: *Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study*. [[paper]](https://arxiv.org/pdf/2610.14238) [[code]](https://github.com/datajuicer/agentic-data-engineering/tree/main) [[homepage]](https://datajuicer.github.io/agentic-data-engineering/)
 - **[10/2026]** 🚀 New arXiv preprint: *Welfare-Aware Preference Acquisition for Pluralistic Alignment*. [[paper]](https://arxiv.org/pdf/2610.19035) [[code]](https://github.com/ZDCSlab/Welfare-Aware-Preference-Acquisition)
 - **[10/2026]** 🚀 New arXiv preprint: *Speculative Evaluation of Stochastic LLMs*. [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
 - **[09/2026]** 🎉 Three papers accepted at NeurIPS 2026 workshops: [WAPA](https://openreview.net/forum?id=GiRtUYmJvF) @ [FLLMPT](https://www.fllmpt-work.shop/), [ADE](https://openreview.net/forum?id=bTVUsrguDi) @ [AutoMLR](https://automlr.com/), and [SpecEval](https://openreview.net/forum?id=IvzVKsdcH9) @ [TAE](https://tai-eval.github.io/).
 - **[09/2026]** I will serve as a reviewer for ICLR 2027.
-- **[07/2026]** 🎉 One paper accepted at COLM 2026.
+- **[07/2026]** 🎉 [RIPD](https://arxiv.org/abs/2602.13576) has been accepted at COLM 2026.
 - **[07/2026]** I will serve as a reviewer for AAAI 2027.
 - **[05/2026]** 🏅 Recognized as a Gold Reviewer at ICML 2026.
-- **[05/2026]** 🎉 One paper accepted at ICML 2026. See you in Seoul! 🇰🇷
+- **[05/2026]** 🎉 [GAE](https://arxiv.org/abs/2602.14279) has been accepted at ICML 2026. See you in Seoul! 🇰🇷
 - **[05/2026]** I will serve as a reviewer for NeurIPS 2026.
 - **[04/2026]** I will join <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/tongyi.jpeg">Alibaba Tongyi Lab as a research intern in Summer 2026.
-- **[03/2026]** 🎉 Two papers accepted at ICLR 2026 Workshops [ICBINB](https://sites.google.com/view/icbinb-2026/home) & [AIMS](https://alimama-tech.github.io/aims-2026/#). See you in Rio! 🇧🇷
+- **[03/2026]** 🎉 Short paper versions of [RIPD](https://arxiv.org/abs/2602.13576) and [GAE](https://arxiv.org/abs/2602.14279) have been accepted at ICLR 2026 Workshops [ICBINB](https://sites.google.com/view/icbinb-2026/home) & [AIMS](https://alimama-tech.github.io/aims-2026/#). See you in Rio! 🇧🇷
 - **[02/2026]** 🚀 New arXiv preprint: *Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges*. [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
 - **[02/2026]** 🚀 New arXiv preprint: *Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions*. [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
 <!-- - **[01/2026]** I will serve as a reviewer for AIMS @ ICLR 2026. -->
 - **[01/2026]** I will serve as a reviewer for ICML 2026.
 - **[01/2026]** I will serve as a reviewer for KDD 2026.
-- **[11/2025]** 🎉 One paper accepted at AAAI 2026 (Oral).
+- **[11/2025]** 🎉 [SkillGen](https://arxiv.org/abs/2511.14670) has been accepted at AAAI 2026 (Oral).
 
 </div>
 
@@ -78,6 +79,8 @@ I am actively seeking **2027 summer internships**. If you have or know of any op
 - <span class="pub-tag pub-tag--conference">AAAI 2026</span> <span class="pub-tag pub-tag--highlight">Oral</span> [SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://arxiv.org/pdf/2511.14670), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao [[paper]](https://arxiv.org/pdf/2511.14670) [[code]](https://github.com/ruomengd/SkillGen)
 
 - <span class="pub-tag pub-tag--conference">ACL 2024</span> [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2311.04254) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT)
+
+- <span class="pub-tag pub-tag--preprint">Preprint</span> [A Unified Arena for LLM Agents across Diverse Eurogame](https://arxiv.org/pdf/2610.35773), Fengrui Zhang, Xiang Li, **Ruomeng Ding**, Jiayi Yuan, Yuchen Huang, Zhaoyang Han, Xiaoliang Wang, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2610.35773)
 
 </details>
 
