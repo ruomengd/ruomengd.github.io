@@ -30,6 +30,12 @@ layout: compress
       </article>
     </div>
 
+    {% if page.footer_quote %}
+    <footer class="homepage-quote">
+      <p><em>“One must imagine Sisyphus happy.”</em> <span>— Albert Camus</span></p>
+    </footer>
+    {% endif %}
+
     {% include scripts.html %}
 
   </body>

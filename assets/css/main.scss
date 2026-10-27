@@ -293,11 +293,18 @@ h1:before, .anchor:before {
 }
 
 .homepage-quote {
-    margin: 4em 0 2em;
+    clear: both;
+    margin: 3em auto 0;
+    padding: 1.5em 1em 2em;
+    border-top: 1px solid #e5eaf0;
     color: #687586;
     font-size: 0.85em;
     line-height: 1.8;
     text-align: center;
+
+    p {
+        margin: 0;
+    }
 
     span {
         white-space: nowrap;

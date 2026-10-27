@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+footer_quote: true
 redirect_from: 
   - /about/
   - /about.html
@@ -30,7 +31,7 @@ Please feel free to reach out if you are interested in collaborating. ☕
 
 <div class="internship-notice" markdown="1">
 
-I am actively seeking **2027 summer internships**. If you have or know of any opportunities that align with my interests, please contact me at [ruomeng@cs.unc.edu](mailto:ruomeng@cs.unc.edu).
+I am actively seeking **2027 Spring/Summer internships**. If you have or know of any opportunities that align with my interests, please contact me at [ruomeng@cs.unc.edu](mailto:ruomeng@cs.unc.edu). Thanks!
 
 </div>
 
@@ -147,7 +148,3 @@ I am actively seeking **2027 summer internships**. If you have or know of any op
 
 # 🛠️ Service
 - Conference reviewer: AAAI 2026–2027, ICLR 2026–2027, COLM 2026, NeurIPS 2026, ICML 2026 (Gold Reviewer), KDD 2025–2026.
-
-<div class="homepage-quote">
-  <p><em>“One must imagine Sisyphus happy.”</em> <span>— Albert Camus</span></p>
-</div>
