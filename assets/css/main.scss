@@ -293,9 +293,13 @@ h1:before, .anchor:before {
 }
 
 .homepage-quote {
-    margin: 3em 0 2em;
+    margin: 4em 0 2em;
     color: #687586;
     font-size: 0.85em;
     line-height: 1.8;
-    text-align: left;
+    text-align: center;
+
+    span {
+        white-space: nowrap;
+    }
 }

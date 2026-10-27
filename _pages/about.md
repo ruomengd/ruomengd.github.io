@@ -149,6 +149,5 @@ I am actively seeking **2027 summer internships**. If you have or know of any op
 - Conference reviewer: AAAI 2026–2027, ICLR 2026–2027, COLM 2026, NeurIPS 2026, ICML 2026 (Gold Reviewer), KDD 2025–2026.
 
 <div class="homepage-quote">
-  <p><em>“One must imagine Sisyphus happy.”</em><br>
-  <span>— Albert Camus</span></p>
+  <p><em>“One must imagine Sisyphus happy.”</em> <span>— Albert Camus</span></p>
 </div>
