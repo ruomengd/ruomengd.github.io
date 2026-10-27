@@ -19,9 +19,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a second-year Ph.D. student at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/unc.jpeg"> UNC-Chapel Hill advised by [Prof. Zhun Deng](https://www.zhundeng.org/home). My research focuses on how LLM-based systems learn from experience, elicit human preferences through interaction, and can be evaluated reliably. I am also interested in AI4AI, particularly using AI agents to automate data engineering, evaluation, and model improvement. Please feel free to reach out if you are interested in collaborating. Before joining UNC, I completed my Master’s degree in Computer Science at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech. I am also fortunate to collaborate with researchers at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America.
+Hi, I am a second-year Ph.D. student at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/unc.jpeg"> UNC-Chapel Hill advised by [Prof. Zhun Deng](https://www.zhundeng.org/home). My research focuses on how LLM-based systems learn from experience, elicit human preferences through interaction, and can be evaluated reliably. I am also interested in AI4AI, particularly using AI agents to automate data engineering, evaluation, and model improvement. Before joining UNC, I completed my Master’s degree in Computer Science at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech. I am also fortunate to collaborate with researchers at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft, and <img class="intro-logo" style="width: 19px; padding-bottom: 3px;" src="/images/nec.png"> NEC Laboratories America.
 
 Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation · Reliable LLM Evaluation · AI4AI
+
+Please feel free to reach out if you are interested in collaborating.
 
 [[Resume]](/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
  
@@ -130,16 +132,16 @@ I am actively seeking **2027 summer internships**. If you have or know of any op
  -->
 
 # 💻 Experience
-- *2026.05 - 2026.08*, Alibaba Token Foundry (Tongyi Lab), Hangzhou, China.
+- <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/tongyi.jpeg" alt=""> *2026.05 - 2026.08*, Alibaba Token Foundry (Tongyi Lab), Hangzhou, China.
   <!-- - Advised by [Dr. Qianli Shen](https://shenqianli.github.io/) and [Daoyuan Chen](https://yxdyc.github.io/). -->
-- *2024.05 - 2024.08*, Microsoft Research, Redmond, WA.
+- <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/Microsoft.png" alt=""> *2024.05 - 2024.08*, Microsoft Research, Redmond, WA.
   <!-- - Advised by [Dr. Minghua Ma](https://www.microsoft.com/en-us/research/people/minghuama/) and [Dr. Ze Li](https://scholar.google.com/citations?user=hhGVDJwAAAAJ&hl=en). -->
-- *2022.11 - 2023.08*, Microsoft Research Asia, Beijing, China.
+- <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/Microsoft.png" alt=""> *2022.11 - 2023.08*, Microsoft Research Asia, Beijing, China.
   <!-- - Advised by [Dr. Lu Wang](https://scholar.google.com/citations?user=hqlU92YAAAAJ&hl=en) and [Dr. Chaoyun Zhang](https://www.microsoft.com/en-us/research/people/chaoyunzhang/). -->
 
 # 🎖 Honors and Fellowships
-- Doctoral Merit Fellowship, University of North Carolina at Chapel Hill, 2025–2026
-- Merit Scholarship, Georgia Institute of Technology, 2022-2023
+- <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/unc.jpeg" alt=""> Doctoral Merit Fellowship, University of North Carolina at Chapel Hill, 2025–2026
+- <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/gatech.svg" alt=""> Merit Scholarship, Georgia Institute of Technology, 2022-2023
 
 <span class='anchor' id='service'></span>
 
