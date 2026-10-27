@@ -44,13 +44,13 @@ I am actively seeking **2027 summer internships**. If you have or know of any op
 - **[10/2026]** 🚀 New arXiv preprint: *Speculative Evaluation of Stochastic LLMs*. [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
 - **[09/2026]** 🎉 Three papers accepted at NeurIPS 2026 workshops: [WAPA](https://openreview.net/forum?id=GiRtUYmJvF) @ [FLLMPT](https://www.fllmpt-work.shop/), [ADE](https://openreview.net/forum?id=bTVUsrguDi) @ [AutoMLR](https://automlr.com/), and [SpecEval](https://openreview.net/forum?id=IvzVKsdcH9) @ [TAE](https://tai-eval.github.io/).
 - **[09/2026]** I will serve as a reviewer for ICLR 2027.
-- **[07/2026]** 🎉 [RIPD](https://arxiv.org/abs/2602.13576) has been accepted at COLM 2026.
+- **[07/2026]** 🎉 [Rubrics as an Attack Surface](https://arxiv.org/pdf/2602.13576) has been accepted at COLM 2026.
 - **[07/2026]** I will serve as a reviewer for AAAI 2027.
 - **[05/2026]** 🏅 Recognized as a Gold Reviewer at ICML 2026.
 - **[05/2026]** 🎉 [GAE](https://arxiv.org/abs/2602.14279) has been accepted at ICML 2026. See you in Seoul! 🇰🇷
 - **[05/2026]** I will serve as a reviewer for NeurIPS 2026.
 - **[04/2026]** I will join <img class="intro-logo" style="width: 19px; vertical-align: middle; margin-right: 4px;" src="/images/tongyi.jpeg">Alibaba Tongyi Lab as a research intern in Summer 2026.
-- **[03/2026]** 🎉 Short paper versions of [RIPD](https://arxiv.org/abs/2602.13576) and [GAE](https://arxiv.org/abs/2602.14279) have been accepted at ICLR 2026 Workshops [ICBINB](https://sites.google.com/view/icbinb-2026/home) & [AIMS](https://alimama-tech.github.io/aims-2026/#). See you in Rio! 🇧🇷
+- **[03/2026]** 🎉 Short paper versions of [Rubrics as an Attack Surface](https://arxiv.org/pdf/2602.13576) and [GAE](https://arxiv.org/abs/2602.14279) have been accepted at ICLR 2026 Workshops [ICBINB](https://sites.google.com/view/icbinb-2026/home) & [AIMS](https://alimama-tech.github.io/aims-2026/#). See you in Rio! 🇧🇷
 - **[02/2026]** 🚀 New arXiv preprint: *Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges*. [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
 - **[02/2026]** 🚀 New arXiv preprint: *Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions*. [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
 <!-- - **[01/2026]** I will serve as a reviewer for AIMS @ ICLR 2026. -->
