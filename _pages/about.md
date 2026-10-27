@@ -23,7 +23,7 @@ Hi, I am a second-year Ph.D. student at <img class="intro-logo" style="width: 19
 
 Research interests: LLM Agents & Reasoning · Preference Learning & Elicitation · Reliable LLM Evaluation · AI4AI
 
-Please feel free to reach out if you are interested in collaborating.
+Please feel free to reach out if you are interested in collaborating. ☕
 
 [[Resume]](/files/Resume_RuomengDing.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=aPlu2rYAAAAJ&hl=en)
  
@@ -147,3 +147,8 @@ I am actively seeking **2027 summer internships**. If you have or know of any op
 
 # 🛠️ Service
 - Conference reviewer: AAAI 2026–2027, ICLR 2026–2027, COLM 2026, NeurIPS 2026, ICML 2026 (**Gold Reviewer**), KDD 2025–2026.
+
+<div class="homepage-quote">
+  <p><em>“One must imagine Sisyphus happy.”</em><br>
+  <span>— Albert Camus</span></p>
+</div>
