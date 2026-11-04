@@ -39,7 +39,7 @@ I am actively seeking **2027 Spring/Summer internships**. If you have or know of
 
 <div class="news-scroll" markdown="1" role="region" aria-label="News" tabindex="0">
 
-- **[10/2026]** 🚀 New arXiv preprint: *A Unified Arena for LLM Agents across Diverse Eurogame*. [[paper]](https://arxiv.org/pdf/2610.35773)
+- **[10/2026]** 🚀 New arXiv preprint: *A Unified Arena for LLM Agents across Diverse Eurogame*. [[paper]](https://arxiv.org/pdf/2610.35773) [[code]](https://github.com/fengrui-z/AgentBGA)
 - **[10/2026]** 🚀 New arXiv preprint: *Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study*. [[paper]](https://arxiv.org/pdf/2610.14238) [[code]](https://github.com/datajuicer/agentic-data-engineering/tree/main) [[homepage]](https://datajuicer.github.io/agentic-data-engineering/)
 - **[10/2026]** 🚀 New arXiv preprint: *Welfare-Aware Preference Acquisition for Pluralistic Alignment*. [[paper]](https://arxiv.org/pdf/2610.19035) [[code]](https://github.com/ZDCSlab/Welfare-Aware-Preference-Acquisition)
 - **[10/2026]** 🚀 New arXiv preprint: *Speculative Evaluation of Stochastic LLMs*. [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
@@ -83,7 +83,7 @@ I am actively seeking **2027 Spring/Summer internships**. If you have or know of
 
 - <span class="pub-tag pub-tag--conference">ACL 2024</span> [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2311.04254) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT)
 
-- <span class="pub-tag pub-tag--preprint">Preprint</span> [A Unified Arena for LLM Agents across Diverse Eurogame](https://arxiv.org/pdf/2610.35773), Fengrui Zhang, Xiang Li, **Ruomeng Ding**, Jiayi Yuan, Yuchen Huang, Zhaoyang Han, Xiaoliang Wang, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2610.35773)
+- <span class="pub-tag pub-tag--preprint">Preprint</span> [A Unified Arena for LLM Agents across Diverse Eurogame](https://arxiv.org/pdf/2610.35773), Fengrui Zhang, Xiang Li, **Ruomeng Ding**, Jiayi Yuan, Yuchen Huang, Zhaoyang Han, Xiaoliang Wang, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2610.35773) [[code]](https://github.com/fengrui-z/AgentBGA)
 
 </details>
 
