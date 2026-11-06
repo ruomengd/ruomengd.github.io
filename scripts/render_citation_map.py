@@ -15,7 +15,7 @@ def popup_text(value):
 def render_map(rows):
     chart = folium.Map(
         location=[0, 0], zoom_start=0, tiles=None, crs='EPSG4326',
-        zoom_snap=0, scroll_wheel_zoom=False,
+        zoom_snap=0, scroll_wheel_zoom=False, attribution_control=False,
         world_copy_jump=False, max_bounds=True,
     )
     # With tiles=None, Folium's min_zoom parameter is not passed to Leaflet.
@@ -32,17 +32,15 @@ def render_map(rows):
     for (institution, lat, lon), authors in institutions.items():
         content = '<strong>' + popup_text(institution) + '</strong><br>' + '<br>'.join(popup_text(x) for x in sorted(authors))
         folium.CircleMarker(
-            [lat, lon], radius=3, color='#ffffff', weight=0.7,
+            [lat, lon], radius=3, stroke=False,
             fill=True, fill_color='#4b87b9', fill_opacity=0.9,
             tooltip=popup_text(institution), popup=folium.Popup(content, max_width=320),
         ).add_to(chart)
     chart.get_root().header.add_child(folium.Element('''<style>
       .folium-map.leaflet-container { background: #fff; font-family: Arial, sans-serif; }
-      .leaflet-control-attribution { font-size: 9px; }
       .leaflet-popup-content { max-width: calc(100vw - 70px); max-height: 240px; overflow: auto; line-height: 1.5; }
       @media(max-width:300px) {
         .leaflet-control-zoom { display: none; }
-        .leaflet-control-attribution { font-size: 7px; }
       }
     </style>'''))
     name = chart.get_name()
