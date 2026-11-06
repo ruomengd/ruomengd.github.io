@@ -190,7 +190,7 @@ speceval:
     url: https://arxiv.org/pdf/2609.28560
   - label: Code
     url: https://github.com/ShenQianli/SpecEval
-  image: /images/publications/speceval.webp
+  image: /images/publications/speceval-figure-2.webp
   image_alt: 'SpecEval Figure 2: task probabilities, confidence interval widths, variance ratios, and sampling densities
     on AIME24 with Qwen3.5-4B'
   image_source:
