@@ -15,9 +15,12 @@ def popup_text(value):
 def render_map(rows):
     chart = folium.Map(
         location=[0, 0], zoom_start=0, tiles=None, crs='EPSG4326',
-        min_zoom=-3, zoom_snap=0, scroll_wheel_zoom=False,
+        zoom_snap=0, scroll_wheel_zoom=False,
         world_copy_jump=False, max_bounds=True,
     )
+    # With tiles=None, Folium's min_zoom parameter is not passed to Leaflet.
+    # The 200px viewport needs a negative zoom to show the full 512px world.
+    chart.options['minZoom'] = -3
     countries = json.loads(files('citation_map').joinpath('world_countries.geojson').read_text())
     folium.GeoJson(countries, style_function=lambda _: {
         'fillColor': '#c3cfdd', 'color': '#ffffff', 'weight': 0.3, 'fillOpacity': 1,
@@ -34,7 +37,7 @@ def render_map(rows):
             tooltip=popup_text(institution), popup=folium.Popup(content, max_width=320),
         ).add_to(chart)
     chart.get_root().header.add_child(folium.Element('''<style>
-      .leaflet-container { background: #fff; font-family: Arial, sans-serif; }
+      .folium-map.leaflet-container { background: #fff; font-family: Arial, sans-serif; }
       .leaflet-control-attribution { font-size: 9px; }
       .leaflet-popup-content { max-width: calc(100vw - 70px); max-height: 240px; overflow: auto; line-height: 1.5; }
       @media(max-width:300px) {
