@@ -388,3 +388,55 @@ h1:before, .anchor:before {
     .publication__image { width: 100%; max-width: 360px; box-sizing: border-box; }
     .publication-category .pub-tag { white-space: normal; }
 }
+
+.map-tabs {
+    display: flex;
+    gap: 3px;
+    padding: 3px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    background: #f0f3f7;
+}
+.map-tab {
+    flex: 1;
+    padding: 5px 3px;
+    border: 0;
+    border-radius: 5px;
+    background: transparent;
+    color: #647184;
+    font: inherit;
+    font-size: 11px;
+    line-height: 1.5;
+    cursor: pointer;
+    &[aria-selected="true"] {
+        background: #fff;
+        color: #174b80;
+        font-weight: 600;
+        box-shadow: 0 1px 3px rgba(30, 50, 70, 0.08);
+    }
+    &:focus-visible { outline: 2px solid #174b80; outline-offset: 1px; }
+}
+.map-panel[hidden] { display: none !important; }
+.map-canvas {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 2 / 1;
+}
+.citation-map-frame {
+    position: absolute;
+    inset: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    border-radius: 5px;
+}
+.visitor-map .map-caption, .visitor-map .map-credit, .visitor-map .map-empty {
+    margin: 8px 0 0;
+    font-size: 10px;
+    line-height: 1.5;
+    color: #687586;
+}
+.visitor-map .map-caption a { color: #174b80; }
+.visitor-map .map-credit { font-size: 9px; min-height: 2.8em; }
+.visitor-map .map-empty { padding: 24px 0; text-align: center; }

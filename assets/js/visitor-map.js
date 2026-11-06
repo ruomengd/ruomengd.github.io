@@ -25,7 +25,7 @@
   // Scale the map and its coordinates together inside narrow sidebars.
   function fitMap() {
     var rendered = widget.querySelector('span');
-    if (!rendered) return;
+    if (!rendered || !widget.clientWidth) return;
     var scale = Math.min(1, widget.clientWidth / 200);
     rendered.style.transformOrigin = 'top left';
     rendered.style.transform = 'scale(' + scale + ')';
@@ -91,6 +91,35 @@
     };
     widget.appendChild(script);
   }
+
+  var tabs = Array.prototype.slice.call(map.querySelectorAll('[role="tab"]'));
+  function selectTab(tab) {
+    tabs.forEach(function (item) {
+      var selected = item === tab;
+      item.setAttribute('aria-selected', String(selected));
+      item.tabIndex = selected ? 0 : -1;
+      document.getElementById(item.getAttribute('aria-controls')).hidden = !selected;
+    });
+    var panel = document.getElementById(tab.getAttribute('aria-controls'));
+    var frame = panel.querySelector('iframe[data-src]');
+    // Create the map only after its panel has a measurable size.
+    if (frame && !frame.getAttribute('src')) frame.src = frame.getAttribute('data-src');
+    if (tab.id === 'visitors-tab') fitMap();
+  }
+  tabs.forEach(function (tab, index) {
+    tab.addEventListener('click', function () { selectTab(tab); });
+    tab.addEventListener('keydown', function (event) {
+      var next;
+      if (event.key === 'ArrowRight') next = (index + 1) % tabs.length;
+      else if (event.key === 'ArrowLeft') next = (index + tabs.length - 1) % tabs.length;
+      else if (event.key === 'Home') next = 0;
+      else if (event.key === 'End') next = tabs.length - 1;
+      else return;
+      event.preventDefault();
+      selectTab(tabs[next]);
+      tabs[next].focus();
+    });
+  });
 
   placeMap();
   if (desktop.addEventListener) desktop.addEventListener('change', placeMap);

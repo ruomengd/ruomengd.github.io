@@ -3,3 +3,6 @@ push.sh
 .DS_Store
 /tmp/
 /output/
+
+.venv-citation-map/
+scripts/__pycache__/
