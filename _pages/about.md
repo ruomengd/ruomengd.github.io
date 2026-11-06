@@ -99,11 +99,11 @@ I am actively seeking **2027 Spring/Summer internships**. If you have or know of
 <details class="publication-category" markdown="1" open>
 <summary>Reliable LLM Evaluation</summary>
 
-{% include publication.html id="speceval" %}
-
 {% include publication.html id="rubrics" %}
 
 {% include publication.html id="grm" %}
+
+{% include publication.html id="speceval" %}
 
 </details>
 

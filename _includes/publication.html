@@ -2,7 +2,7 @@
 <article class="publication" markdown="0">
   {% if paper.image %}
   <a class="publication__image" href="{{ paper.image | relative_url }}" aria-label="View figure: {{ paper.title | escape }}">
-    <img src="{{ paper.image | relative_url }}" alt="{{ paper.image_alt | escape }}" width="560" height="340" loading="lazy" decoding="async">
+    <img src="{{ paper.image | relative_url }}" alt="{{ paper.image_alt | escape }}" width="{{ paper.image_width }}" height="{{ paper.image_height }}" loading="lazy" decoding="async">
   </a>
   {% endif %}
   <div class="publication__body">
