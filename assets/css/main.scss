@@ -431,12 +431,10 @@ h1:before, .anchor:before {
     border: 0;
     border-radius: 5px;
 }
-.visitor-map .map-caption, .visitor-map .map-credit, .visitor-map .map-empty {
+.visitor-map .map-empty {
     margin: 8px 0 0;
     font-size: 10px;
     line-height: 1.5;
     color: #687586;
 }
-.visitor-map .map-caption a { color: #174b80; }
-.visitor-map .map-credit { font-size: 9px; min-height: 2.8em; }
 .visitor-map .map-empty { padding: 24px 0; text-align: center; }

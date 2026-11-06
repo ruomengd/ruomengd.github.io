@@ -11,17 +11,12 @@
       Visitor map is temporarily unavailable.
       <button type="button" class="visitor-map-retry">Retry</button>
     </p>
-    <p class="map-caption"><a href="https://whos.amung.us/stats/{{ site.visitor_map_id }}/" target="_blank" rel="noopener">View visitor details ↗</a></p>
-    <p class="map-credit">whos.amung.us · Live &amp; recent visits</p>
   </div>
   <div id="citations-panel" class="map-panel" role="tabpanel" tabindex="0" aria-labelledby="citations-tab" hidden>
     {% if citation_map %}
     <div class="map-canvas"><iframe class="citation-map-frame" data-src="{{ '/assets/maps/citations.html' | relative_url }}?v={{ site.time | date: '%s' }}" title="Institutions of researchers citing my work" sandbox="allow-scripts allow-same-origin allow-popups" referrerpolicy="no-referrer"></iframe></div>
-    <p class="map-caption"><a href="{{ '/assets/maps/citations.html' | relative_url }}?v={{ site.time | date: '%s' }}" target="_blank" rel="noopener">View larger map ↗</a></p>
-    <p class="map-credit"><a href="https://github.com/ChenLiu-1996/CitationMap" target="_blank" rel="noopener">CitationMap</a>{% if site.data.citation_map.updated %} · {{ site.data.citation_map.updated }}{% endif %}</p>
     {% else %}
     <p class="map-empty">Citation map is being prepared.</p>
-    <p class="map-caption"><a href="{{ site.author.googlescholar }}">View Google Scholar ↗</a></p>
     {% endif %}
   </div>
 </div>

@@ -3,7 +3,9 @@
 The sidebar (desktop) and footer (mobile) share one map card with Visitors and
 Citations tabs. The original whos.amung.us site ID is unchanged. The visitor
 tracker is initialized once; switching tabs does not create another visit tracker.
-The citation iframe loads on first selection.
+The citation iframe loads on first selection. Both maps use the same 200 × 100 px
+viewport (scaling down on narrow screens). The card shows only the tabs and map,
+without separate details links or captions.
 
 ## Refresh citation data
 
@@ -37,7 +39,7 @@ necessarily affiliations at the time of citation.
 The generated map uses embedded Natural Earth boundaries and Folium's CDN assets.
 `render_citation_map.py` applies the same 2:1 world view, white background, muted
 blue land, and blue dots as the visitor widget. CitationMap supplies citation/author data and ROR supplies institution coordinates; this local renderer supplies the shared visual style.
-The card credits [CitationMap](https://github.com/ChenLiu-1996/CitationMap).
+The map itself credits [CitationMap](https://github.com/ChenLiu-1996/CitationMap).
 An unavailable result displays a preparation message instead of fabricated pins.
 
 ## Visitor history
