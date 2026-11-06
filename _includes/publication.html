@@ -1,0 +1,18 @@
+{% assign paper = site.data.publications[include.id] %}
+<article class="publication" markdown="0">
+  {% if paper.image %}
+  <a class="publication__image" href="{{ paper.image | relative_url }}" aria-label="View figure: {{ paper.title | escape }}">
+    <img src="{{ paper.image | relative_url }}" alt="{{ paper.image_alt | escape }}" width="560" height="340" loading="lazy" decoding="async">
+  </a>
+  {% endif %}
+  <div class="publication__body">
+    <div class="publication__tags">
+      {% for tag in paper.tags %}<span class="pub-tag pub-tag--{{ tag.type }}">{{ tag.label }}</span>{% endfor %}
+    </div>
+    <h3 class="publication__title"><a href="{{ paper.url }}">{{ paper.title | escape }}</a></h3>
+    <div class="publication__authors">{{ paper.authors | markdownify }}</div>
+    <div class="publication__links">
+      {% for link in paper.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% endfor %}
+    </div>
+  </div>
+</article>

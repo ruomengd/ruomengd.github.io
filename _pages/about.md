@@ -77,46 +77,46 @@ I am actively seeking **2027 Spring/Summer internships**. If you have or know of
 <details class="publication-category" markdown="1" open>
 <summary>LLM Agents &amp; Reasoning</summary>
 
-- <span class="pub-tag pub-tag--preprint">Preprint</span> <span class="pub-tag pub-tag--workshop">AutoMLR Workshop @NeurIPS 2026</span> [Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study](https://arxiv.org/pdf/2610.14238), **Ruomeng Ding**, Qianli Shen, Zhaoyang Han, Meixin Chen, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2610.14238) [[code]](https://github.com/datajuicer/agentic-data-engineering/tree/main) [[homepage]](https://datajuicer.github.io/agentic-data-engineering/)
+{% include publication.html id="ade" %}
 
-- <span class="pub-tag pub-tag--conference">AAAI 2026</span> <span class="pub-tag pub-tag--highlight">Oral</span> [SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://arxiv.org/pdf/2511.14670), **Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao [[paper]](https://arxiv.org/pdf/2511.14670) [[code]](https://github.com/ruomengd/SkillGen)
+{% include publication.html id="skillgen" %}
 
-- <span class="pub-tag pub-tag--conference">ACL 2024</span> [Everything of thoughts: Defying the law of penrose triangle for thought generation](https://arxiv.org/pdf/2311.04254), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2311.04254) [[code]](https://github.com/microsoft/Everything-of-Thoughts-XoT)
+{% include publication.html id="xot" %}
 
-- <span class="pub-tag pub-tag--preprint">Preprint</span> [A Unified Arena for LLM Agents across Diverse Eurogame](https://arxiv.org/pdf/2610.35773), Fengrui Zhang, Xiang Li, **Ruomeng Ding**, Jiayi Yuan, Yuchen Huang, Zhaoyang Han, Xiaoliang Wang, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2610.35773) [[code]](https://github.com/fengrui-z/AgentBGA)
+{% include publication.html id="agentbga" %}
 
 </details>
 
 <details class="publication-category" markdown="1" open>
 <summary>Preference Learning &amp; Elicitation</summary>
 
-- <span class="pub-tag pub-tag--preprint">Preprint</span> <span class="pub-tag pub-tag--workshop">FLLMPT Workshop @NeurIPS 2026</span> [Who Should We Listen to More? Welfare-Aware Preference Acquisition for Pluralistic Alignment](https://arxiv.org/pdf/2610.19035), **Ruomeng Ding**\*, Tianwei Gao\*, Lianrui Geng, Mohit Bansal, and Zhun Deng [[paper]](https://arxiv.org/pdf/2610.19035) [[code]](https://github.com/ZDCSlab/Welfare-Aware-Preference-Acquisition)
+{% include publication.html id="wapa" %}
 
-- <span class="pub-tag pub-tag--conference">ICML 2026</span> [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/pdf/2602.14279), **Ruomeng Ding**\*, Tianwei Gao\*, Thomas P. Zollo, Eitan Bachmat, Richard Zemel, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.14279) [[code]](https://github.com/ZDCSlab/Group-Adaptive-Elicitation)
+{% include publication.html id="gae" %}
 
 </details>
 
 <details class="publication-category" markdown="1" open>
 <summary>Reliable LLM Evaluation</summary>
 
-- <span class="pub-tag pub-tag--preprint">Preprint</span> <span class="pub-tag pub-tag--workshop">TAE Workshop @NeurIPS 2026</span> [Speculative Evaluation of Stochastic LLMs](https://arxiv.org/pdf/2609.28560), Qianli Shen, Xiang Li, **Ruomeng Ding**, Yanxi Chen, Daoyuan Chen, Yaliang Li [[paper]](https://arxiv.org/pdf/2609.28560) [[code]](https://github.com/ShenQianli/SpecEval)
+{% include publication.html id="speceval" %}
 
-- <span class="pub-tag pub-tag--conference">COLM 2026</span> [Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges](https://arxiv.org/pdf/2602.13576), **Ruomeng Ding**\*, Yifei Pang\*, He Sun, Yizhong Wang, Zhiwei Steven Wu, and Zhun Deng [[paper]](https://arxiv.org/pdf/2602.13576) [[code]](https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface)
+{% include publication.html id="rubrics" %}
 
-- <span class="pub-tag pub-tag--conference">NeurIPS 2024</span> [Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/pdf/2406.10216), Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang [[paper]](https://arxiv.org/pdf/2406.10216) [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model)
+{% include publication.html id="grm" %}
 
 </details>
 
 <details class="publication-category" markdown="1" open>
 <summary>Reliable Machine Learning &amp; Applications</summary>
 
-- <span class="pub-tag pub-tag--conference">SDM 2025</span> [Evidence-Based Out-of-Distribution Detection on Multi-Label Graphs](), **Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao, Zhengzhang Chen, Haifeng Chen
+{% include publication.html id="ood" %}
 
-- <span class="pub-tag pub-tag--conference">ESEC/FSE 2023</span> [TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems](https://arxiv.org/pdf/2310.18740), **Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Xiaomin Wu, Meng Zhang, Qingjun Chen, Xin Gao, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2310.18740)
+{% include publication.html id="tracediag" %}
 
-- <span class="pub-tag pub-tag--conference">KDD 2023</span> [Root cause analysis for microservice systems via hierarchical reinforcement learning from human feedback](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Lu Wang, Chaoyun Zhang, **Ruomeng Ding**, Yong Xu, Qihang Chen, Wentao Zou, Qingjun Chen, Meng Zhang, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599934)
+{% include publication.html id="hrlhf" %}
 
-- <span class="pub-tag pub-tag--conference">VLDB 2023</span> [ImDiffusion: Imputed diffusion models for multivariate time series anomaly detection](https://dl.acm.org/doi/abs/10.1145/3580305.3599934), Yuhang Chen, Chaoyun Zhang, Minghua Ma, Yudong Liu, **Ruomeng Ding**, Bowen Li, Shilin He, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang [[paper]](https://arxiv.org/pdf/2307.00754) [[code]](https://github.com/17000cyh/IMDiffusion)
+{% include publication.html id="imdiffusion" %}
 
 </details>
 

@@ -310,3 +310,83 @@ h1:before, .anchor:before {
         white-space: nowrap;
     }
 }
+
+// Compact publication rows with full, uncropped paper figures.
+.publication {
+    display: grid;
+    grid-template-columns: 230px minmax(0, 1fr);
+    gap: 1.5em;
+    align-items: center;
+    padding: 1.25em 0;
+    border-bottom: 1px solid #edf0f3;
+
+    &:last-child { border-bottom: 0; }
+
+    &__image {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 8px;
+        border: 1px solid #e6eaf0;
+        border-radius: 8px;
+        background: #fff;
+        transition: border-color 0.15s ease;
+
+        &:hover { border-color: #6b9ac4; }
+        &:focus-visible { outline: 2px solid #174b80; outline-offset: 3px; }
+
+        img {
+            display: block;
+            width: 100%;
+            height: 148px;
+            margin: 0;
+            object-fit: contain;
+        }
+    }
+
+    &__body { min-width: 0; }
+
+    &__title {
+        margin: 0.2em 0 0.45em;
+        font-size: 1em;
+        line-height: 1.45;
+        a { text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    }
+
+    &__authors {
+        color: #59616b;
+        font-size: 0.85em;
+        line-height: 1.6;
+        p { margin: 0; font-size: inherit; }
+        strong { color: #303842; }
+    }
+
+    &__links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5em;
+        margin-top: 0.65em;
+        a {
+            padding: 0.12em 0.65em;
+            border: 1px solid #d5e0eb;
+            border-radius: 4px;
+            font-size: 0.78em;
+            line-height: 1.6;
+            text-decoration: none;
+            &:hover { background: #edf4fb; }
+        }
+    }
+}
+
+@media (max-width: 1100px) and (min-width: 641px) {
+    .publication { grid-template-columns: 180px minmax(0, 1fr); gap: 1em; }
+    .publication__image img { height: 128px; }
+}
+
+@media (max-width: 640px) {
+    .publication { grid-template-columns: minmax(0, 1fr); gap: 1em; }
+    .publication__image { width: 100%; max-width: 360px; box-sizing: border-box; }
+    .publication__image img { height: 180px; }
+    .publication-category .pub-tag { white-space: normal; }
+}

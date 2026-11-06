@@ -1,0 +1,349 @@
+ade:
+  title: 'Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study'
+  url: https://arxiv.org/pdf/2610.14238
+  authors: '**Ruomeng Ding**, Qianli Shen, Zhaoyang Han, Meixin Chen, Daoyuan Chen, Yaliang Li'
+  tags:
+  - type: preprint
+    label: Preprint
+  - type: workshop
+    label: AutoMLR Workshop @NeurIPS 2026
+  links:
+  - label: Paper
+    url: https://arxiv.org/pdf/2610.14238
+  - label: Code
+    url: https://github.com/datajuicer/agentic-data-engineering/tree/main
+  - label: Project
+    url: https://datajuicer.github.io/agentic-data-engineering/
+  image: /images/publications/ade.webp
+  image_alt: ADE agents, experiment engine, memory, and external oversight
+  image_source:
+    page: 3
+    figure: 2
+    crop_pdf_points:
+    - 118
+    - 68
+    - 494
+    - 261
+    url: https://arxiv.org/pdf/2610.14238
+    selection_note: Figure 2 shows the complete agent/engine/memory/oversight architecture; more representative
+      than the abstract research loop in Figure 1.
+    reviewed_on: '2026-11-06'
+skillgen:
+  title: 'SkillGen: Learning Domain Skills for In-Context Sequential Decision Making'
+  url: https://arxiv.org/pdf/2511.14670
+  authors: '**Ruomeng Ding**, Wei Cheng, Minglai Shao, Chen Zhao'
+  tags:
+  - type: conference
+    label: AAAI 2026
+  - type: highlight
+    label: Oral
+  links:
+  - label: Paper
+    url: https://arxiv.org/pdf/2511.14670
+  - label: Code
+    url: https://github.com/ruomengd/SkillGen
+  image: /images/publications/skillgen.webp
+  image_alt: SkillGen domain knowledge construction, skill extraction, and skill-based learning
+  image_source:
+    page: 2
+    figure: 1
+    crop_pdf_points:
+    - 72
+    - 72
+    - 540
+    - 289
+    url: https://arxiv.org/pdf/2511.14670
+    selection_note: Figure 1 connects knowledge construction, skill extraction, and skill-based learning; the other
+      figures isolate rewards, ablations, or graph construction.
+    reviewed_on: '2026-11-06'
+xot:
+  title: 'Everything of thoughts: Defying the law of penrose triangle for thought generation'
+  url: https://arxiv.org/pdf/2311.04254
+  authors: '**Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Wei Zhang, Si Qin, Saravan Rajmohan,
+    Qingwei Lin, Dongmei Zhang'
+  tags:
+  - type: conference
+    label: ACL 2024
+  links:
+  - label: Paper
+    url: https://arxiv.org/pdf/2311.04254
+  - label: Code
+    url: https://github.com/microsoft/Everything-of-Thoughts-XoT
+  image: /images/publications/xot.webp
+  image_alt: XoT thought generation and revision with Monte Carlo tree search
+  image_source:
+    url: https://arxiv.org/pdf/2311.04254
+    page: 6
+    figure: 3
+    crop_pdf_points:
+    - 118
+    - 93
+    - 495
+    - 198
+    selection_note: Figure 3 clearly shows the MCTS–LLM revision loop. Figure 1 compares many prompting methods
+      and is too dense at thumbnail size; Figure 2 focuses on MCTS mechanics.
+    reviewed_on: '2026-11-06'
+agentbga:
+  title: A Unified Arena for LLM Agents across Diverse Eurogame
+  url: https://arxiv.org/pdf/2610.35773
+  authors: Fengrui Zhang, Xiang Li, **Ruomeng Ding**, Jiayi Yuan, Yuchen Huang, Zhaoyang Han, Xiaoliang Wang, Daoyuan
+    Chen, Yaliang Li
+  tags:
+  - type: preprint
+    label: Preprint
+  links:
+  - label: Paper
+    url: https://arxiv.org/pdf/2610.35773
+  - label: Code
+    url: https://github.com/fengrui-z/AgentBGA
+  image: /images/publications/agentbga.webp
+  image_alt: Eurogame environments, model participants, and seat-balanced tournaments
+  image_source:
+    page: 2
+    figure: 1
+    crop_pdf_points:
+    - 72
+    - 257
+    - 540
+    - 533
+    url: https://arxiv.org/pdf/2610.35773
+    selection_note: Figure 1 presents games, model/harness participants, tournaments, and analyses in one overview;
+      Figure 2 is a game taxonomy and later figures emphasize results.
+    reviewed_on: '2026-11-06'
+wapa:
+  title: Who Should We Listen to More? Welfare-Aware Preference Acquisition for Pluralistic Alignment
+  url: https://arxiv.org/pdf/2610.19035
+  authors: '**Ruomeng Ding**\*, Tianwei Gao\*, Lianrui Geng, Mohit Bansal, and Zhun Deng'
+  tags:
+  - type: preprint
+    label: Preprint
+  - type: workshop
+    label: FLLMPT Workshop @NeurIPS 2026
+  links:
+  - label: Paper
+    url: https://arxiv.org/pdf/2610.19035
+  - label: Code
+    url: https://github.com/ZDCSlab/Welfare-Aware-Preference-Acquisition
+  image: /images/publications/wapa.webp
+  image_alt: Welfare-aware selection of preference queries across groups
+  image_source:
+    page: 3
+    figure: 1
+    crop_pdf_points:
+    - 79
+    - 79
+    - 533
+    - 328
+    url: https://arxiv.org/pdf/2610.19035
+    selection_note: Figure 1 links heterogeneous preferences, welfare-aware query choice, and alignment outcomes;
+      later figures show experimental comparisons.
+    reviewed_on: '2026-11-06'
+gae:
+  title: 'Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions'
+  url: https://arxiv.org/pdf/2602.14279
+  authors: '**Ruomeng Ding**\*, Tianwei Gao\*, Thomas P. Zollo, Eitan Bachmat, Richard Zemel, and Zhun Deng'
+  tags:
+  - type: conference
+    label: ICML 2026
+  links:
+  - label: Paper
+    url: https://arxiv.org/pdf/2602.14279
+  - label: Code
+    url: https://github.com/ZDCSlab/Group-Adaptive-Elicitation
+  image: /images/publications/gae.webp
+  image_alt: Adaptive group elicitation with respondent selection and response imputation
+  image_source:
+    page: 2
+    figure: 1
+    crop_pdf_points:
+    - 78
+    - 78
+    - 534
+    - 216
+    url: https://arxiv.org/pdf/2602.14279
+    selection_note: Figure 1 explains joint query/respondent selection and response imputation; Figure 2 is a narrower
+      GNN implementation detail.
+    reviewed_on: '2026-11-06'
+speceval:
+  title: Speculative Evaluation of Stochastic LLMs
+  url: https://arxiv.org/pdf/2609.28560
+  authors: Qianli Shen, Xiang Li, **Ruomeng Ding**, Yanxi Chen, Daoyuan Chen, Yaliang Li
+  tags:
+  - type: preprint
+    label: Preprint
+  - type: workshop
+    label: TAE Workshop @NeurIPS 2026
+  links:
+  - label: Paper
+    url: https://arxiv.org/pdf/2609.28560
+  - label: Code
+    url: https://github.com/ShenQianli/SpecEval
+  image: /images/publications/speceval.webp
+  image_alt: HBN variance relative to uniform allocation across evaluation budgets
+  image_source:
+    page: 17
+    figure: 1
+    crop_pdf_points:
+    - 116
+    - 214
+    - 492
+    - 344
+    url: https://arxiv.org/pdf/2609.28560
+    selection_note: Figure 1 summarizes normalized variance over 107 benchmark–checkpoint profiles and several budgets.
+      No numbered method overview is present in this PDF; Figure 2 is a denser single-case analysis. This is a results
+      thumbnail, not a pipeline diagram.
+    reviewed_on: '2026-11-06'
+rubrics:
+  title: 'Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges'
+  url: https://arxiv.org/pdf/2602.13576
+  authors: '**Ruomeng Ding**\*, Yifei Pang\*, He Sun, Yizhong Wang, Zhiwei Steven Wu, and Zhun Deng'
+  tags:
+  - type: conference
+    label: COLM 2026
+  links:
+  - label: Paper
+    url: https://arxiv.org/pdf/2602.13576
+  - label: Code
+    url: https://github.com/ZDCSlab/Rubrics-as-an-Attack-Surface
+  image: /images/publications/rubrics.webp
+  image_alt: Rubric-induced preference drift and downstream policy misalignment
+  image_source:
+    page: 2
+    figure: 1
+    crop_pdf_points:
+    - 114
+    - 78
+    - 493
+    - 254
+    url: https://arxiv.org/pdf/2602.13576
+    selection_note: Figure 1 connects rubric changes, preference drift, and policy misalignment. Figure 2 focuses
+      on experimental access/protocol rather than the main mechanism.
+    reviewed_on: '2026-11-06'
+grm:
+  title: Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs
+  url: https://arxiv.org/pdf/2406.10216
+  authors: Rui Yang, **Ruomeng Ding**, Yong Lin, Huan Zhang, Tong Zhang
+  tags:
+  - type: conference
+    label: NeurIPS 2024
+  links:
+  - label: Paper
+    url: https://arxiv.org/pdf/2406.10216
+  - label: Code
+    url: https://github.com/YangRui2015/Generalizable-Reward-Model
+  image: /images/publications/grm.webp
+  image_alt: Reward model training with hidden-state regularization
+  image_source:
+    url: https://arxiv.org/pdf/2406.10216
+    page: 2
+    figure: 1(a)
+    crop_pdf_points:
+    - 107
+    - 68
+    - 410
+    - 158
+    selection_note: Use the complete method panel of Figure 1(a), including both reward and language-model heads;
+      omit the separate result panel (b) to preserve thumbnail clarity.
+    reviewed_on: '2026-11-06'
+ood:
+  title: Evidence-Based Out-of-Distribution Detection on Multi-Label Graphs
+  url: https://zxj32.github.io/data/SDM2025_paper.pdf
+  authors: '**Ruomeng Ding**, Xujiang Zhao, Chen Zhao, Minglai Shao, Zhengzhang Chen, Haifeng Chen'
+  tags:
+  - type: conference
+    label: SDM 2025
+  links:
+  - label: Paper
+    url: https://zxj32.github.io/data/SDM2025_paper.pdf
+  image: /images/publications/ood.webp
+  image_alt: Multi-label evidential graph learning and out-of-distribution inference
+  image_source:
+    page: 3
+    figure: 2
+    crop_pdf_points:
+    - 74
+    - 72
+    - 540
+    - 262
+    url: https://zxj32.github.io/data/SDM2025_paper.pdf
+    selection_note: Figure 2 is the full training/inference framework. Figure 1 motivates the problem with proteins
+      but does not show the proposed method.
+    reviewed_on: '2026-11-06'
+tracediag:
+  title: 'TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems'
+  url: https://arxiv.org/pdf/2310.18740
+  authors: '**Ruomeng Ding**, Chaoyun Zhang, Lu Wang, Yong Xu, Minghua Ma, Xiaomin Wu, Meng Zhang, Qingjun Chen,
+    Xin Gao, Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang'
+  tags:
+  - type: conference
+    label: ESEC/FSE 2023
+  links:
+  - label: Paper
+    url: https://arxiv.org/pdf/2310.18740
+  image: /images/publications/tracediag.webp
+  image_alt: TraceDiag reinforcement learning, graph pruning, and root cause analysis
+  image_source:
+    url: https://arxiv.org/pdf/2310.18740
+    page: 4
+    figure: 2
+    crop_pdf_points:
+    - 323
+    - 168
+    - 558
+    - 275
+    selection_note: Figure 2 is the complete trace-to-pruning-to-root-cause framework; Figures 3 and 4 only explain
+      filtering-tree execution and policy training.
+    reviewed_on: '2026-11-06'
+hrlhf:
+  title: Root cause analysis for microservice systems via hierarchical reinforcement learning from human feedback
+  url: https://dl.acm.org/doi/abs/10.1145/3580305.3599934
+  authors: Lu Wang, Chaoyun Zhang, **Ruomeng Ding**, Yong Xu, Qihang Chen, Wentao Zou, Qingjun Chen, Meng Zhang,
+    Xuedong Gao, Hao Fan, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang
+  tags:
+  - type: conference
+    label: KDD 2023
+  links:
+  - label: Paper
+    url: https://dl.acm.org/doi/abs/10.1145/3580305.3599934
+  image: /images/publications/hrlhf.webp
+  image_alt: HRLHF causal discovery through initial graphs, human feedback, and reward-guided policy optimization
+  image_source:
+    file: 3580305.3599934.pdf
+    page: 4
+    figure: 2
+    crop_pdf_points:
+    - 53
+    - 86
+    - 313
+    - 263
+    url: https://dl.acm.org/doi/abs/10.1145/3580305.3599934
+    selection_note: Figure 2 shows initial graph learning, human feedback/reward modeling, and policy optimization;
+      graph examples and deployment screenshots are less representative.
+    reviewed_on: '2026-11-06'
+imdiffusion:
+  title: 'ImDiffusion: Imputed diffusion models for multivariate time series anomaly detection'
+  url: https://arxiv.org/pdf/2307.00754
+  authors: Yuhang Chen, Chaoyun Zhang, Minghua Ma, Yudong Liu, **Ruomeng Ding**, Bowen Li, Shilin He, Saravan Rajmohan,
+    Qingwei Lin, Dongmei Zhang
+  tags:
+  - type: conference
+    label: VLDB 2023
+  links:
+  - label: Paper
+    url: https://arxiv.org/pdf/2307.00754
+  - label: Code
+    url: https://github.com/17000cyh/IMDiffusion
+  image: /images/publications/imdiffusion.webp
+  image_alt: ImDiffusion ensemble anomaly inference from imputation errors and voting
+  image_source:
+    url: https://arxiv.org/pdf/2307.00754
+    page: 7
+    figure: 6
+    crop_pdf_points:
+    - 323
+    - 89
+    - 559
+    - 250.3
+    selection_note: Figure 6 connects imputation, prediction errors, and ensemble voting to anomaly detection. Prefer
+      this end-to-end inference view over Figure 4, which only shows training.
+    reviewed_on: '2026-11-06'
